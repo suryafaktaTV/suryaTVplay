@@ -172,13 +172,10 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 ___
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movie2", ZBioskop 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
-
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(HD)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
-
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(malaysia)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
 https://radenroro.net/RHS/vplus.mpd?channel=HBOSignature2 
 
