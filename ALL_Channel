@@ -476,7 +476,16 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier 5 
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports premier", True Premier1(th) 
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports premier", True Premier2(th) 
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports premier", True Premier3(th) 
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports premier", True Premier4(th) 
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier5(th) 
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 ____BT SPORT____
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="btSport", BT SPORTS 1 
@@ -485,7 +494,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 1 [Me-Tv]
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 2 [Me-Tv]
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 _______skysport____
 
