@@ -173,7 +173,7 @@ ___
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movie2", ZBioskop 
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(HD)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(malaysia)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
@@ -185,18 +185,18 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8 
 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits 2
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u81d58&c3.ri=6891924672610400589
+https://hboasialive.akamaized.net/hls/live/2020211/HITS/index.m3u8?hdnts=exp=1620028812~hmac=02adc4cf43f83d1dd32b20fb8b545d620799717d734ec0306880ca80456d1d58&c3.ri=6891924672610400589
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
 https://radenroro.net/RHS/vplus.mpd?channel=Thrill 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8ad90a61d2&c3.ri=6891924672610400735 
+https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
 https://hboasialive.akamaized.net/hls/live/2020213/MAX/index.m3u8?hdnts=exp=1620028816~hmac=ec5900c4ee054871d4c7782b65102b0e77c5c9d9c50da6f1a6e6627120a8789b&c3.ri=6918946270374623788 
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://nonton.site:8443/p/p/2156
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u829c7384&c3.ri=6912190859605422542 
+https://hboasialive.akamaized.net/hls/live/2020214/RED/index.m3u8?hdnts=exp=1620028817~hmac=6533070bc7d980ba08cba95e2f96599a77e9963b5d028ae3f542557a229c7384&c3.ri=6912190859605422542 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movie2", Flik https://radenroro.net/RHS/homempd.php?channel=flik 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
@@ -242,6 +242,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJGKORi.png" group-title="suryaTV-LOKAL",[suryaTV]Hi indo!
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="suryaMstream" The indonesia chanel 
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiindo.png" group-title="suryaMstream",Hi Indo 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd 
@@ -476,16 +479,7 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier 5 
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports premier", True Premier1(th) 
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports premier", True Premier2(th) 
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports premier", True Premier3(th) 
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports premier", True Premier4(th) 
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier5(th) 
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
 ____BT SPORT____
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="btSport", BT SPORTS 1 
@@ -494,7 +488,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 1 [Me-Tv]
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 2 [Me-Tv]
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 _______skysport____
 
