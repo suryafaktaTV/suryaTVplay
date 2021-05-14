@@ -159,15 +159,15 @@ https://radenroro.net/RHS/homempd.php?channel=celestialmovie
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Movies", HITS 
 https://nonton.site:8443/6894864475/7163819284/1195
-#EXTINF:0 tvg-logo="https://i.ibb.co/xjXVBgk/20210504-053009.png"group-title="Movies",FoxMovies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXVBgk/20210504-053009.png"group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fSjz0Bp/20210504-053351.png"group-title="Movies",Foxlife
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fSjz0Bp/20210504-053351.png"group-title="Movies",Foxlife
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ByJV6PM/20210504-053115.png"group-title="Movies",FoxFamilyMovie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByJV6PM/20210504-053115.png"group-title="Movies",FoxFamilyMovie
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 group-title="Movies",Fox HD
+#EXTINF:-1 group-title="Movies",Fox HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:0 group-title="Movies",Fox Crime
+#EXTINF:-1 group-title="Movies",Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 ___
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movie2", ZBioskop 
@@ -449,95 +449,96 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165086
 http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="khusus SPORT GESERðŸ‘‰"
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 1 HD
+
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 1 HD
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16944?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 2 HD
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 2 HD
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16945?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 3 HD
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 3 HD
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16946?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 1
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 1
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2187?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 2
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 2
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2186?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Art Sport
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Art Sport
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2183?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 3
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 3
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2185?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 4
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 4
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2184?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16947?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1 HD
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2202?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16948?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2 HD
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2201?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16949?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3 HD
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/2200?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 4
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 4
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16950?checkedby:SuryaTV
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 5
+#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 5
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16951?checkedby:SuryaTV
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 1 HD
+#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 1 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24419?checkedby:SuryaTV
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 2 HD
+#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 2 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24420?checkedby:SuryaTV
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 3 HD
+#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 3 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/24421?checkedby:SuryaTV
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 4 HD
+#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 4 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/28407?checkedby:SuryaTV
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 1 HD
+#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 1 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/23782?checkedby:SuryaTV
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 2 HD
+#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 2 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/23783?checkedby:SuryaTV
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 3 HD
+#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 3 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/23784?checkedby:SuryaTV
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="ALLSport",Eleven Sports FHD
+#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",Eleven Sports FHD
 http://vigilantev.net:80/nightmare/nightmare/216051?checkedby:SuryaTV
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 4 HD
+#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 4 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/23785?checkedby:SuryaTV
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORT 1 (480p)
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORT 1 (480p)
 http://vigilantev.net:80/nightmare/nightmare/171630?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 3 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51917?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
 http://vigilantev.net:80/nightmare/nightmare/171632?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51918?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD
 http://vigilantev.net:80/nightmare/nightmare/171629?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD TR
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD TR
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1798?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 2
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 2
 http://vigilantev.net:80/nightmare/nightmare/171635?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 3
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 3
 http://vigilantev.net:80/nightmare/nightmare/171633?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 4
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 4
 http://vigilantev.net:80/nightmare/nightmare/171631?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 1
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 1
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 2
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 2
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 3
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 3
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 4
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 4
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="beinSport",BeIN Sports MAX 8
+#EXTINF:-1 tvg-country="GR" tvg-logo="" group-title="beinSport",BeIN Sports MAX 8
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="beinSport",BEIN SPORTS USA ENGLISH HD
+#EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="beinSport",BEIN SPORTS USA ENGLISH HD
 http://miarea.vip:8080/nena/nena/62822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 1 HD
 http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 2 HD
 http://vigilantev.net:80/nightmare/nightmare/171636?checkedby:iptvcat.com
 
 
