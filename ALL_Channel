@@ -275,8 +275,7 @@ http://bonev2.xyz/playlist/usee-tvnmovies-new-bonetv.m3u8
 #EXTINF:-1 group-title="Entertainment",[suryaTV]TVN movie(link2) 
 http://51.15.12.163:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596?token=ShUNAEFcElxEW1FQWgpaX1kNVQlTU1QJBQBVVQRUWQFTAFFRBwBVUlQaGEZKTREDAFhpWAUVDwgDBlZbAU5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFAAAEUVUATkMTWFNHWxAHAF5QCBZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEURcaEwhERRsMXxYOW05DAVhDFwBGURJcRAkAUAwbT0QCWkNfFUVMGwwTLS4VTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWUgwNUkQc
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", [suryaTV]AXN 
-http://163.172.219.129:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165079?token=ShUNAEFcElxEXQJWWw8BVgcCBFNXAFEJAwRbWgJTUlJXUgFQVg1TUwAaGEZKTREDAFhpWAUVDwgABFNVDk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFDgMEUFsATkMTWFNHWxAFBFRWCRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEURcaEwhERRsMXxYOW05DAVhDFwBGURJcRAoMVg4bT0QCWkNfFUVMGwwTISUVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVg8KUFRDSA== 
-                    
+http://163.172.219.129:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165079?token=ShUNAEFcElxEXgQHXw4FU1MHAwIHAVQMBFIFUQ5WB1YGUVQDBwcIVAIaGEZKTREDAFhpWAUVDwgABFNVDk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFAA8JV1IBTkMTWFNHWxAGBl9QABZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAoMVgEbT0QCWkNfFUVMGwwTMCcVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVg8AVVVDSA==                  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", [suryaTV]AXN2
 https://cdn12jtedge.useetv.com/dass/133/axn_dash/manifest_wuseetv.mpd?encp=I3YxL_vuj7Qbm6MnJ-8uzA&uid=ZjlhMzE3MGIwZjRjYzAzMDdiNTM3ODAyZGFjYTdhOTU= 
 
@@ -311,8 +310,6 @@ https://tv.cpdev.us/Playlist/usee1/258.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner2 
 http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
  
-#EXTINF:-1 group-title="Entertainment",[suryaTV]AXN 2
-https://tv.cpdev.us/Playlist/usee1/249.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1, group-title="Entertainment",[suryaTV]KBS World 2
 https://tv.cpdev.us/Playlist/usee1/301.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1 group-title="Entertainment",[suryaTV]Blue Ant Entertainment 2
