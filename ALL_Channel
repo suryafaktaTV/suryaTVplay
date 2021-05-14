@@ -282,7 +282,7 @@ https://cdn12jtedge.useetv.com/dass/133/axn_dash/manifest_wuseetv.mpd?encp=I3YxL
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", [suryaTV]Kix(usee) 
 https://cdn12jtedge.useetv.com/dass/133/kix_dash/manifest_wuseetv.mpd?encp=3J7dxrZiKpDPtVhR-fan4g&uid=ZjlhMzE3MGIwZjRjYzAzMDdi             
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix_2
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix(link2)
 http://51.15.26.75:8070/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165068?token=ShUNAEFcElxEDVUBXQFVVVFTVwJWUQRaDghXUwdQVgZTBwNUVwdVAwUaGEZKTREDAFhpWAUVDwgABFNUD05DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFAA8HWloOTkMTWFNHWxAFBV9QGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FWQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVAkGUxsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoFXQAKUUQc
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Entertainment", [suryaTV]Blue Ant 
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8                       
@@ -319,8 +319,6 @@ https://tv.cpdev.us/Playlist/usee1/301.m3u8?t=2510c39011c5be704182423e3a695e91
 https://tv.cpdev.us/Playlist/usee1/303.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1 group-title="Entertainment",[suryaTV]Blue Ant Extreme 2
 https://tv.cpdev.us/Playlist/usee1/305.m3u8?t=2510c39011c5be704182423e3a695e91
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Entertainment",KIX HD
-https://nonton.site:8443/p/p/8
 #EXTINF:-1 group-title="Entertainment",[suryaTV]Waku Waku Japan 2
 https://tv.cpdev.us/Playlist/usee1/248.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1 group-title="Entertainment",[suryaTV]K plus 2
