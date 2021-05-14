@@ -450,8 +450,48 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="khusus SPORT GESERðŸ‘‰"
 
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORT 1 (480p)
+http://vigilantev.net:80/nightmare/nightmare/171630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 3 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
+http://vigilantev.net:80/nightmare/nightmare/171632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD
+http://vigilantev.net:80/nightmare/nightmare/171629?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD TR
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/1798?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 2
+http://vigilantev.net:80/nightmare/nightmare/171635?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 3
+http://vigilantev.net:80/nightmare/nightmare/171633?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 4
+http://vigilantev.net:80/nightmare/nightmare/171631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 1
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 2
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 3
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 4
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738?checkedby:iptvcat.com
 
-_____BT SPORT____
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="beinSport",BeIN Sports MAX 8
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136816?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="beinSport",BEIN SPORTS USA ENGLISH HD
+http://miarea.vip:8080/nena/nena/62822?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 1 HD
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51915?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 2 HD
+http://vigilantev.net:80/nightmare/nightmare/171636?checkedby:iptvcat.com
+
+
+____BT SPORT___
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="suryaTV@BTsport",BT sport1 
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8 
@@ -481,16 +521,6 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier 5 
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-
-____BT SPORT____
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="btSport", BT SPORTS 1 
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="btSport", BT SPORTS 2 
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 1 [Me-Tv]
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="btSport" tvg-id="btsport2" tvg-logo="https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg" ,BT Sport 2 [Me-Tv]
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 _______skysport____
 
