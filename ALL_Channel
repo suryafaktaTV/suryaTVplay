@@ -150,7 +150,7 @@ http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6587
 ___________MOVIE________
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy https://radenroro.net/RHS/homempd.php?channel=galaxy 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium SD
-https://nonton.site:8443/p/p/29603
+https://cdn11jtedge.useetv.com/dass/133/galaxy_dash/manifest_wuseetv.mpd?encp=TEHkxQumrTPh-mQ3pBbW6A&amp;uid=MjMwZmE1MjM2MGQwZDEyMDY5Yzk5ZGU5NjgwZDdiYmU=&amp;expp=1621098288
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium  
 https://radenroro.net/RHS/homempd.php?channel=galaxypremium 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie
