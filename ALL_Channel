@@ -6,7 +6,7 @@ https://nonton.site:8443/6894864475/7163819284/32586
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
- #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1621162817~acl=/hls-p/ingest_204_*/*~hmac=d7ae7dfe52831c9dc4c28b0e5cd0c35a23a93604a38ae5e5a354bbb91b8389cd/hls-p/ingest_204_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="suryaTV-LOKAL",[suryaTV]RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
