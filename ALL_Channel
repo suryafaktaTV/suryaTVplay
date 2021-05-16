@@ -9,7 +9,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
  
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV https://etslive-2-vidio-com.akamaized.net/exp=1619715616~acl=/hls-p/ingest_204_*/*~hmac=71434dd38c6390addbcdad27766b79f0db5f280563f2f2992e05ce4d3a61898c/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
+https://etslive-2-vidio-com.akamaized.net/exp=1619715616~acl=/hls-p/ingest_204_*/*~hmac=71434dd38c6390addbcdad27766b79f0db5f280563f2f2992e05ce4d3a61898c/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="suryaTV-LOKAL",[suryaTV]RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
@@ -81,7 +82,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_1561_720p/index.
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1621141216~acl=/hls-p/ingest_204_*/*~hmac=dbac8877840a5b677ec1e48d3860e119c4d2a4f724aa4f16175597f2456be331/hls-p/ingest_204_720p/index.m3u8 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
-https://nonton.site:8443/6894864475/7163819284/931
+http://50.7.218.66:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141?token=ShUNAEFcElxEXAxSDloHXgICBwBVAwMPAwQABFIHWVYHUlRWAgcGVQAaGEZKTREDAFhpWAUVDwgAA1JWBk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUECAIHVlEBTkMTWFNHWxAHBl9WGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FXQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVwoFUhsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoGVw0PVEQc
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 
 https://etslive-2-vidio-com.akamaized.net/exp=1621141221~acl=/hls-p/ingest_734_*/*~hmac=1125a3d879086d4593a8d9e7d9addbe5389cea60b4299a6907f10867f3478515/hls-p/ingest_734_720p/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 FHD
