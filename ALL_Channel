@@ -79,15 +79,15 @@ https://nonton.site:8443/6894864475/7163819284/78
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="lokal_2",Rajawali TV
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-rtv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV
-http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-204
+https://etslive-2-vidio-com.akamaized.net/exp=1621141216~acl=/hls-p/ingest_204_*/*~hmac=dbac8877840a5b677ec1e48d3860e119c4d2a4f724aa4f16175597f2456be331/hls-p/ingest_204_720p/index.m3u8 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
 https://nonton.site:8443/6894864475/7163819284/931
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 
-http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-734
+https://etslive-2-vidio-com.akamaized.net/exp=1621141221~acl=/hls-p/ingest_734_*/*~hmac=1125a3d879086d4593a8d9e7d9addbe5389cea60b4299a6907f10867f3478515/hls-p/ingest_734_720p/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 FHD
 https://nonton.site:8443/6894864475/7163819284/930
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="lokal_2",Trans TV
-http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-733
+https://etslive-2-vidio-com.akamaized.net/exp=1621141219~acl=/hls-p/ingest_733_*/*~hmac=8977730265d50cb5aedce292d292e112c354e2ded9a5ea2df22099fff1461dd3/hls-p/ingest_733_720p/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="lokal_2",Trans TV FHD
 https://nonton.site:8443/6894864475/7163819284/929
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="lokal_2",U Channel
