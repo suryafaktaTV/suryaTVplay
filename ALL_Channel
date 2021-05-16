@@ -31,7 +31,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="suryaTV-LOKAL", [suryaTV]NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="suryaTV-LOKAL", [suryaTV]Magna TV 
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8 
 
 _____lokal_2___
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="lokal_2", [suryaTV]MNC
@@ -71,7 +71,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1621141216~acl=/hls-p/ingest_204_*
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
 http://50.7.218.66:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141?token=ShUNAEFcElxEXAxSDloHXgICBwBVAwMPAwQABFIHWVYHUlRWAgcGVQAaGEZKTREDAFhpWAUVDwgAA1JWBk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUECAIHVlEBTkMTWFNHWxAHBl9WGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FXQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVwoFUhsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoGVw0PVEQc
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 
-https://etslive-2-vidio-com.akamaized.net/exp=1621141221~acl=/hls-p/ingest_734_*/*~hmac=1125a3d879086d4593a8d9e7d9addbe5389cea60b4299a6907f10867f3478515/hls-p/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1621162815~acl=/hls-p/ingest_734_*/*~hmac=494f9544a4631de5a50e072a4776d5569cc983bf8d920f249ed96adea2793c9c/hls-p/ingest_734_720p/index.m3u8 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 FHD
 https://nonton.site:8443/6894864475/7163819284/930
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="lokal_2",Trans TV
