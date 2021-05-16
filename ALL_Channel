@@ -46,7 +46,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 
 _____lokal_2___
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="lokal_2", [suryaTV]MNC
-http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-870 
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="lokal_2", antv (usee)
 http://85.203.33.29:25461/VzWu57b559/BRQDAutYcE/160572?play_token=IVClvVTssW&token=ShdcBRFREglDVwsDAQQBA1UFAQBbWwpVUlAAVw9VCgQHAQZTVggEBFBGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1EDAFYKDxUdEU0KVVwRDVdTCAwHUgsJAAEYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwMXZzYXEHlAQAcKUENcD0QAEytdXVhfVkoKWRsfFQQMTUdWFlwSC1tBCA4VElAOEV1HEEobDRN6fUEUG1ZPEgBXRl4NVxILF0AXQBUSWhI7QVYRR0tSUF5cERoDEQdESRtYVhpmU15bWgEBTVlcDxcRCUACGxsTXlYNUU1cRTkVUFEVWFdFXVlJ
 
