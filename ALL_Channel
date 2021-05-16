@@ -10,7 +10,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621161724~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=6b5e69b4f1fc9fade612395419d94d1958831e53e5def1857442aad993301b17/vp9/204/primary/audio/1620754781-392538019000.webm
+https://etslive-2-vidio-com.akamaized.net/exp=1621162817~acl=/hls-p/ingest_204_*/*~hmac=d7ae7dfe52831c9dc4c28b0e5cd0c35a23a93604a38ae5e5a354bbb91b8389cd/hls-p/ingest_204_720p/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="suryaTV-LOKAL",[suryaTV]RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
