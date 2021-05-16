@@ -2,55 +2,42 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV-LOKAL",Antara TV
 https://nonton.site:8443/6894864475/7163819284/32586
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="suryaTV-LOKAL", [suryaTV]TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
- 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
+ #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV] SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1621162817~acl=/hls-p/ingest_204_*/*~hmac=d7ae7dfe52831c9dc4c28b0e5cd0c35a23a93604a38ae5e5a354bbb91b8389cd/hls-p/ingest_204_720p/index.m3u8 
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="suryaTV-LOKAL",[suryaTV]RCTI
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", ANTV_
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link2)
 http://51.15.26.210:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072?token=ShUNAEFcElxEDQxXCl0HAFQCAQYCVQ0AAAVaVVIEUVdSAwFVUA1TUwAaGEZKTREDAFhpWAUVDwgABFNVBU5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFDgMCWlEATkMTWFNHWxAGBVFVDRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAkGVA8bT0QCWkNfFUVMGwwTISUVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQ4JVVdDSA==
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link3)
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="suryaTV-LOKAL", [suryaTV]Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="suryaTV-LOKAL", [suryaTV]GTV
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
- 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="suryaTV-LOKAL", [suryaTV]NET TV
+ #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="suryaTV-LOKAL", [suryaTV]NET TV
 http://www.stgiptv-v2.tech:25461/get.php?username=jimmysukiat&password=berc4bngotaknya&type=m3u_plus&output=hls
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 2
 http://rr2.dens.tv/s/s105/index2.m3u8
- 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="suryaTV-LOKAL", [suryaTV]NASA TV https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="suryaTV-LOKAL", [suryaTV]Magna TV https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
-
+ #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="suryaTV-LOKAL", [suryaTV]NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="suryaTV-LOKAL", [suryaTV]Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 
 _____lokal_2___
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="lokal_2", [suryaTV]MNC
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-870 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="lokal_2", antv (usee)
 http://85.203.33.29:25461/VzWu57b559/BRQDAutYcE/160572?play_token=IVClvVTssW&token=ShdcBRFREglDVwsDAQQBA1UFAQBbWwpVUlAAVw9VCgQHAQZTVggEBFBGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1EDAFYKDxUdEU0KVVwRDVdTCAwHUgsJAAEYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwMXZzYXEHlAQAcKUENcD0QAEytdXVhfVkoKWRsfFQQMTUdWFlwSC1tBCA4VElAOEV1HEEobDRN6fUEUG1ZPEgBXRl4NVxILF0AXQBUSWhI7QVYRR0tSUF5cERoDEQdESRtYVhpmU15bWgEBTVlcDxcRCUACGxsTXlYNUU1cRTkVUFEVWFdFXVlJ
-
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="lokal_2",Antara TV(usee) 
 http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="lokal_2",ANTV
@@ -262,39 +249,29 @@ http://51.15.12.163:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596?token=Sh
 http://163.172.219.129:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165079?token=ShUNAEFcElxEXgQHXw4FU1MHAwIHAVQMBFIFUQ5WB1YGUVQDBwcIVAIaGEZKTREDAFhpWAUVDwgABFNVDk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFAA8JV1IBTkMTWFNHWxAGBl9QABZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAoMVgEbT0QCWkNfFUVMGwwTMCcVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVg8AVVVDSA==                  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", [suryaTV]AXN2
 https://cdn12jtedge.useetv.com/dass/133/axn_dash/manifest_wuseetv.mpd?encp=I3YxL_vuj7Qbm6MnJ-8uzA&uid=ZjlhMzE3MGIwZjRjYzAzMDdiNTM3ODAyZGFjYTdhOTU= 
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", [suryaTV]Kix(usee) 
 https://cdn12jtedge.useetv.com/dass/133/kix_dash/manifest_wuseetv.mpd?encp=3J7dxrZiKpDPtVhR-fan4g&uid=ZjlhMzE3MGIwZjRjYzAzMDdi             
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix(link2)
 http://51.15.26.75:8070/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165068?token=ShUNAEFcElxEDVUBXQFVVVFTVwJWUQRaDghXUwdQVgZTBwNUVwdVAwUaGEZKTREDAFhpWAUVDwgABFNUD05DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFAA8HWloOTkMTWFNHWxAFBV9QGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FWQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVAkGUxsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoFXQAKUUQc
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png" group-title="Entertainment", [suryaTV]Blue Ant 
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8                       
- 
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Entertainment", [suryaTV]Blue Ant Extreme 
-http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8                       
- 
+http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-id="kplus" tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment", [suryaTV]K+ 
- http://210.210.155.35/session/7a45c4b0-ad49-11eb-b5c0-98d5b12fac23/uq2663/h/h08/02.m3u8                      
- 
+http://210.210.155.35/session/7a45c4b0-ad49-11eb-b5c0-98d5b12fac23/uq2663/h/h08/02.m3u8                      
 #EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Entertainment", [suryaTV]Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8                       
- 
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment", [suryaTV]Sony One 
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment", [suryaTV]KBS World 
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8                
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment", [suryaTV]Waku Waku Japan 
 https://tv.cpdev.us/Playlist/usee1/248.m3u8?t=2510c39011c5be704182423e3a695e9
- 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner 
+ #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner 
 https://tv.cpdev.us/Playlist/usee1/258.m3u8?t=2510c39011c5be704182423e3a695e91
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner2 
 http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
- 
-#EXTINF:-1, group-title="Entertainment",[suryaTV]KBS World 2
+ #EXTINF:-1, group-title="Entertainment",[suryaTV]KBS World 2
 https://tv.cpdev.us/Playlist/usee1/301.m3u8?t=2510c39011c5be704182423e3a695e91
 #EXTINF:-1 group-title="Entertainment",[suryaTV]Blue Ant Entertainment 2
 https://tv.cpdev.us/Playlist/usee1/303.m3u8?t=2510c39011c5be704182423e3a695e91
