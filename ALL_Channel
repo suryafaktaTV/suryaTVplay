@@ -117,7 +117,7 @@ https://radenroro.net/RHS/homempd.php?channel=dunialain
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="usee Lokal",Hope Channel
 https://nonton.site:8443/6894864475/7163819284/30183
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="usee Lokal",Indosiar
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-indosiar
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-indosiar
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="usee Lokal",Jak TV
 https://nonton.site:8443/6894864475/7163819284/1210
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="usee Lokal",JTV
@@ -125,21 +125,21 @@ https://nonton.site:8443/6894864475/7163819284/135
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="usee Lokal",Life
 https://nonton.site:8443/6894864475/7163819284/1772
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="usee Lokal",NET TV
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-net
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-net
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="usee Lokal",NET TV FHD
 https://nonton.site:8443/6894864475/7163819284/78
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="usee Lokal",Rajawali TV
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-rtv
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-rtv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="usee Lokal",SCTV
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-sctv
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-sctv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="usee Lokal",SCTV HD
 https://nonton.site:8443/6894864475/7163819284/931
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="usee Lokal",Trans 7 
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-trans7
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-trans7
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="usee Lokal",Trans 7 FHD
 https://nonton.site:8443/6894864475/7163819284/930
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="usee Lokal",Trans TV
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-transtv
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-transtv
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="usee Lokal",Trans TV FHD
 https://nonton.site:8443/6894864475/7163819284/929
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="usee Lokal",U Channel
@@ -151,11 +151,11 @@ https://nonton.site:8443/6894864475/7163819284/89
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="News",BBC World News HD
 https://nonton.site:8443/6894864475/7163819284/789
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="usee Lokal",Berita Satu News
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-beritasatu
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-beritasatu
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.21dab64a6e5610d23ee813ac04e2ed7b.SHINTA" tvg-name" Metro TV" group-title="usee Lokal", [suryaTV]Metro TV 
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-metrotv
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-metrotv
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.1e3c36eb8307a40a9f9e38d023757173.SHINTA" tvg-name" Kompas TV" group-title="usee Lokal", [suryaTV]Kompas TV 
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-kompastv
+http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=usee-kompastv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="usee Lokal", [suryaTV]TVONE 
 http://85.203.33.29:25461/XX3O1xfISI/9xs4PJkAwO/160668?play_token=vdV69QiwUc&token=ShdcBRFREglDVFEDVgMAUVdQXVIJAQsDBF0NBlIHX1QDVwNdUgkGAVRGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1AFBVYGABUdEU0KVVwRDVdTCAAOVAoCCQMYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwMXZzYXEHlAQAcKUENcD0QAEytdXVhfVkoKWRsfFQQMTUdWFlwSC1tBCA4VElAOEV1HEEobDRN6fUEUG1ZPEgBXRl4NVxILF0AXQBUSWhI7QVYRR0tSUF5cERoDEQdESRtYVhpmU15bWgEBTVlcDxcRCUACGxsTXlYNUU1cRTkVUFEVWFdFXVlJ
 
