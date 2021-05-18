@@ -258,7 +258,9 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/blueantextreme.png" group-title="Entertainment", [suryaTV]Blue Ant Extreme 
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8 
 #EXTINF:-1 tvg-id="kplus" tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment", [suryaTV]K+ 
-http://210.210.155.35/session/7a45c4b0-ad49-11eb-b5c0-98d5b12fac23/uq2663/h/h08/02.m3u8                      
+http://210.210.155.35/session/7a45c4b0-ad49-11eb-b5c0-98d5b12fac23/uq2663/h/h08/02.m3u8
+#EXTINF:-1 tvg-id="kplus" tvg-logo="http://kamiselaluada.com/img/kplus.png" group-title="Entertainment", [suryaTV]K+(link2)
+https://cgk1.securepath.site:443/Athayamanja/SHFTZRKFrF/18?token=QhBYV0dYRg4TXFdXBwEAAlJdBQpfWgpdWg0CAgVQBAcNVwFVUFEFUVAaSBAQEEJXVQhvWgIbCVQBGBJEElMTPVBWEgwWAVQHAA9dEE9GRFtZABIJVw8BVAoAAwFWAE1ASVtUFA4SUAIJD1IQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNQA1ZQGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgdTA1JRG08=
 #EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Entertainment", [suryaTV]Sony GEM TV 
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8                       
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment", [suryaTV]Sony One 
@@ -332,7 +334,7 @@ https://nonton.site:8443/6894864475/7163819284/14106
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
 https://nonton.site:8443/6894864475/7163819284/1483
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
-https://nonton.site:8443/6894864475/7163819284/341
+https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/522?token=QhBYV0dYRg4TWQYLBlwHClFcCAFUWgYDCwMJVAdVVwdYAAEHAFJRUVUaSBAQEEJXVQhvWgIbCVALBhwTFEUEEGZbVBQOElUEAAlTBkFIEkZdCFURXAgFVwgHBANYBlJOG0JZUhYKRgwIAF0EQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDB1BaDBAcFFdfEVpFSh0QWUZ5dhZJElYeTVYLSl1fX0MMQxZKEBwUXUM7RlRLEEAGBV1XRkcKEVYbH0dUVUhuAlkPDFxRRF9bXhcWCxpWEE9GXV1aDERcFGZDDF0WChNXBVFQDRBN
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr ID
 https://nonton.site:8443/6894864475/7163819284/522
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick Toons
