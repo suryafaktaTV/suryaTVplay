@@ -159,7 +159,7 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 https://hboasialive.akamaized.net/hls/live/2020211/HITS/index.m3u8?hdnts=exp=1620028812~hmac=02adc4cf43f83d1dd32b20fb8b545d620799717d734ec0306880ca80456d1d58&c3.ri=6891924672610400589
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
-https://radenroro.net/RHS/vplus.mpd?channel=Thrill 
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/4?token=QhBYV0dYRg4TDVNQUVcBAQRcUVAHAQNWAFZRB1dQBVIJBlFSUQAHAVAaSBAQEEJXVQhvWgIbCVEVFkVCBEQ+C10QChQFAFYGBgxGHkEQWV9RRwoCUAsCVg0GAAZXGkMSUFYSDBYBVAEIC1MQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYBFVAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWBgNSDlNARA== 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
 https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
@@ -315,6 +315,8 @@ https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/3479?token=QhBYV0dYRg4TCwd
 https://nonton.site:8443/6894864475/7163819284/3479
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
 https://nonton.site:8443/6894864475/7163819284/213
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior(link2)
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/213?token=QhBYV0dYRg4TXlJUBQUEBAMEUQUEDlVQAAFRBwNVUgdYCgYAUFNdUQMaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEAwpTBkFIEkZdCFURXAgFVwgHBANQA1lOG0JZUhYKRgUBClEFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDDlJaGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgBRBlBWG08=
 #EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="Kids",Disney UK
 https://nonton.site:8443/6894864475/7163819284/2336
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
