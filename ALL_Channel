@@ -625,43 +625,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/awani.png", Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-____serial___
-
 # serial #
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/16818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/16801.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/16924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/16925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/16952.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/16954.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/17009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/17010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/17011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/17012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/17013.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/17014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E13
-https://nonton.site:8443/series/Akhbar/Fadilah/17015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E14
-https://nonton.site:8443/series/Akhbar/Fadilah/17016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E15
-https://nonton.site:8443/series/Akhbar/Fadilah/17017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Girlfriend is a Gumiho S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRMxvvmQi4THZhNbjAZbzFhQ4KL.jpg" group-title="Series Korea",My Girlfriend is a Gumiho S01 E16
-https://nonton.site:8443/series/Akhbar/Fadilah/17018.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64eiLFqydlGXYF0A4IQKMddUhlb.jpg" group-title="Series Korea",Orange Marmalade S01 E01
 https://nonton.site:8443/series/Akhbar/Fadilah/16764.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWHgZc5zlMnDyWQzSMcqMYg16Fu.jpg" group-title="Series Korea",Orange Marmalade S01 E02
