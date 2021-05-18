@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV-LOKAL",Antara TV
-https://nonton.site:8443/6894864475/7163819284/32586
+http://home-tv.my.id/RHS/kuncoro.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="suryaTV-LOKAL", [suryaTV]TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC
@@ -108,8 +108,7 @@ http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6684
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="lokaltainment", Citra Entertainment (Vidio) 
 http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6402
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="lokaltainment", Dunia Lain2
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-dunialain 
-
+http://home-tv.my.id/RHS/mpdhometv.m3u8?channel=dunialain
 #EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="lokaltainment", Citra Drama (Vidio)  
 http://abdrahim.my.id/live/tvindo/citradrama.m3u8
 
