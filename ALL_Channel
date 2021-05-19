@@ -160,7 +160,7 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 https://hboasialive.akamaized.net/hls/live/2020211/HITS/index.m3u8?hdnts=exp=1620028812~hmac=02adc4cf43f83d1dd32b20fb8b545d620799717d734ec0306880ca80456d1d58&c3.ri=6891924672610400589
 
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/4?token=QhBYV0dYRg4TDVNQUVcBAQRcUVAHAQNWAFZRB1dQBVIJBlFSUQAHAVAaSBAQEEJXVQhvWgIbCVEVFkVCBEQ+C10QChQFAFYGBgxGHkEQWV9RRwoCUAsCVg0GAAZXGkMSUFYSDBYBVAEIC1MQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYBFVAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWBgNSDlNARA== 
+http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
 https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
