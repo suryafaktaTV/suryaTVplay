@@ -63,11 +63,11 @@ https://nonton.site:8443/6894864475/7163819284/135
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="lokal_2",Life
 https://nonton.site:8443/6894864475/7163819284/1772
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="lokal_2",NET TV
-https://alive.github.com/_sockets/u/83928284/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MzkyODI4NCwicyI6NjkzMDM0MDg2LCJjIjozMDMwNTA4NDgsInQiOjE2MjExNDIwMzJ9--a37efe3580f027e88f1a4ccac5e4a5e84edfea2af9f231d9374cbc83a7740631&shared=false
+https://cdn14jtedge.useetv.com/joss/133/net/chunklist_w927732634_b1344100_sleng.m3u8?enc=AEjKI8Z0dAstViGi1kJLbA&uid=&exp=1621432424
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="lokal_2",NET TV FHD
 https://nonton.site:8443/6894864475/7163819284/78
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="lokal_2",Rajawali TV
-https://cdn12jtedge.useetv.com/joss/14/rtv/chunklist_w902441869_b684100_sleng.m3u8?enc=cHpnvClc92vFFSLSqUalFQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613335810 
+https://cdn14jtedge.useetv.com/joss/130/rtv/chunklist_w1944439599_b1004100_sleng.m3u8?enc=18ECv5Bavkq2XJ0NOxp8EA&uid=&exp=1621432290
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
