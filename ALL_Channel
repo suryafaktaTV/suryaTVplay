@@ -25,7 +25,7 @@ http://home-tv.my.id/RHS/ampera.m3u8?channel=vidio-875
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV
 http://home-tv.my.id/RHS/ampera.m3u8?channel=vidio-1561 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227213/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 2
 http://rr2.dens.tv/s/s105/index2.m3u8
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="suryaTV-LOKAL", [suryaTV]NASA TV 
