@@ -406,6 +406,68 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="khusus SPORT GESERðŸ‘‰"
 
+
+
+//BEIN
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/668 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/669 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/666 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/667 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/664 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 3 HD  
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/665 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/682 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/1711 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/679 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/677 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/675 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/673 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",beIN SPORTS HD7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/671 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS XTRA 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63913 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS ENGLISH 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63916 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS ENGLISH 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63914 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS ENGLISH 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63915 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS FRENCH 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63917 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS FRENCH 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63918 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/681 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/680 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/678 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/676 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/674 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/672 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS 7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/670
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS  News HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/1884 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/1885 
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS NBA HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63912 
+
 #EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 1 HD
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16944?checkedby:SuryaTV
 #EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 2 HD
@@ -456,46 +518,6 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/23784?checkedby:SuryaTV
 http://vigilantev.net:80/nightmare/nightmare/216051?checkedby:SuryaTV
 #EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 4 HD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/23785?checkedby:SuryaTV
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORT 1 (480p)
-http://vigilantev.net:80/nightmare/nightmare/171630?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 3 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51917?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
-http://vigilantev.net:80/nightmare/nightmare/171632?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51918?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD
-http://vigilantev.net:80/nightmare/nightmare/171629?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD TR
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/1798?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 2
-http://vigilantev.net:80/nightmare/nightmare/171635?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 3
-http://vigilantev.net:80/nightmare/nightmare/171633?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 4
-http://vigilantev.net:80/nightmare/nightmare/171631?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 1
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 2
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 3
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 4
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GR" tvg-logo="" group-title="beinSport",BeIN Sports MAX 8
-http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136816?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="beinSport",BEIN SPORTS USA ENGLISH HD
-http://miarea.vip:8080/nena/nena/62822?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 1 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51915?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 2 HD
-http://vigilantev.net:80/nightmare/nightmare/171636?checkedby:iptvcat.com
 
 
 ____BT SPORT___
