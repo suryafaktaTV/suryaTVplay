@@ -67,7 +67,7 @@ http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-net
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="lokal_2",NET TV FHD
 https://nonton.site:8443/6894864475/7163819284/78
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="lokal_2",Rajawali TV
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/37?token=QhBYV0dYRg4TDF1RW1MAVAcGBldVXwFTXQFWBQAOVlAOVwRXAQEFAQIaSBAQEEJXVQhvWgIbCVYOGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVA0MAglSA01ASVtUFA4SUgMJD1QQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYA1dAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWCAdRDlZARA==
+http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-rtv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
