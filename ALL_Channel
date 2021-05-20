@@ -24,6 +24,8 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8.m3u8
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV_2
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/37?token=QhBYV0dYRg4TDF1RW1MAVAcGBldVXwFTXQFWBQAOVlAOVwRXAQEFAQIaSBAQEEJXVQhvWgIbCVYOGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVA0MAglSA01ASVtUFA4SUgMJD1QQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYA1dAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWCAdRDlZARA==
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 2
