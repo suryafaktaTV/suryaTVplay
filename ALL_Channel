@@ -237,7 +237,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="suryaMstream", SEA TODAY 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd 
 #EXTINF:-1 tvg-id="kompastv" tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="suryaMstream",KOMPAS TV 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
  _________
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.c86c4034ca638aa5b81c00c37985f83c.SHINTA" tvg-name" TVN" group-title="Entertainment", [suryaTV]TVN
