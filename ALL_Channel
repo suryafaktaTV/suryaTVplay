@@ -73,7 +73,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
 http://50.7.218.66:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141?token=ShUNAEFcElxEXAxSDloHXgICBwBVAwMPAwQABFIHWVYHUlRWAgcGVQAaGEZKTREDAFhpWAUVDwgAA1JWBk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUECAIHVlEBTkMTWFNHWxAHBl9WGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FXQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVwoFUhsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoGVw0PVEQc
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=trans7
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 FHD
 https://nonton.site:8443/6894864475/7163819284/930
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="lokal_2",Trans TV
