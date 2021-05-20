@@ -540,14 +540,14 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 _____premier sport____
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports premier", True Premier 1 
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports premier", True Premier 2 
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports premier", True Premier 3 
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports premier", True Premier 4 
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png" group-title="SOCCER", TRUE Premier 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png" group-title="SOCCER", True Premier 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png" group-title="SOCCER", True Premier 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SOCCER", True Premier 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier 5 
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
