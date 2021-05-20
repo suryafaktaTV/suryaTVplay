@@ -53,7 +53,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1621162821~acl=/hls-p/ingest_665_*
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="lokal_2",Hope Channel
 https://nonton.site:8443/6894864475/7163819284/30183
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="lokal_2",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1621141217~acl=/hls-p/ingest_205_*/*~hmac=f7b18f1979b3689070b84afd591ba6a59804efc40029ffd278cf1c1a6164836a/hls-p/ingest_205_720p/index.m3u8 
+https://etslive-2-vidio-com.akamaized.net/exp=1621489436~acl=/hls-p/ingest_205_*/*~hmac=cd45b7f2222314e85edc03fc4146b6083b2b734934d81a428be50f6edb4ffa5b/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="lokal_2",Indosiar 2
 http://zalogi.xyz/cust/serZALogi.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="lokal_2",Jak TV
