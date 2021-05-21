@@ -161,7 +161,7 @@ http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
 https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
-https://hboasialive.akamaized.net/hls/live/2020213/MAX/index.m3u8?hdnts=exp=1620028816~hmac=ec5900c4ee054871d4c7782b65102b0e77c5c9d9c50da6f1a6e6627120a8789b&c3.ri=6918946270374623788 
+https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1621599958~hmac=2c0bbcca5e6b4513f5801b9c9277924d5bf5db54188e0ebc493a6876b85b3950 
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
 http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8 
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
