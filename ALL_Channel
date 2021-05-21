@@ -149,16 +149,13 @@ http://zalogi.xyz/cust/serZALogi.m3u
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(malaysia)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
-https://radenroro.net/RHS/vplus.mpd?channel=HBOSignature2 
-
+https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1621598132~hmac=55626012b66519164d91d48c00f440ede8c94a93beb60fe185bfc838eced12ea 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_signature_small.gif" group-title="Movie2", HBO SIGNATURE(MAY)
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie2", HBO HITS (asia)
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8 
-
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits 2
-https://hboasialive.akamaized.net/hls/live/2020211/HITS/index.m3u8?hdnts=exp=1620028812~hmac=02adc4cf43f83d1dd32b20fb8b545d620799717d734ec0306880ca80456d1d58&c3.ri=6891924672610400589
-
+https://hboasialive.akamaized.net/hls/live/2007801/HITS/index.m3u8?hdnts=exp=1621598128~hmac=3efabd5cef5c4c98ba90c4629c4fc84ffb931fae5d8406aa0435baf93391755a
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
 http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
