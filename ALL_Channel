@@ -285,6 +285,8 @@ https://tv.cpdev.us/Playlist/usee1/103.m3u8?t=2510c39011c5be704182423e3a695e91
 https://tv.cpdev.us/Playlist/usee1/102.m3u8?t=2510c39011c5be704182423e3a695e91 
  
 _______kids_____
+#EXTINF:-1 group-title="Kids",Animax 
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax2
