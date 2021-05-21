@@ -168,7 +168,7 @@ https://hboasialive.akamaized.net/hls/live/2020213/MAX/index.m3u8?hdnts=exp=1620
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
 http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8 
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
-https://hboasialive.akamaized.net/hls/live/2020214/RED/index.m3u8?hdnts=exp=1620028817~hmac=6533070bc7d980ba08cba95e2f96599a77e9963b5d028ae3f542557a229c7384&c3.ri=6912190859605422542 
+https://hboasialive.akamaized.net/hls/live/2007804/RED/index.m3u8?hdnts=exp=1621598136~hmac=987d145c3913cdce2484f83e10e16f740595d3a1b4ca96684560e1ca20a3a951
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movie2", Flik https://radenroro.net/RHS/homempd.php?channel=flik 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
