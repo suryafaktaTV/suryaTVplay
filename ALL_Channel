@@ -34,7 +34,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8 
 
 _____lokal_2___
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="lokal_2",[CODAY] GTV _+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="lokal_2",GTV_2
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="lokal_2", [suryaTV]MNC
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-870 
