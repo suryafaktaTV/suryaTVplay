@@ -416,6 +416,27 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 
 //BEIN
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 1 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/11
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 2 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/12
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 3 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/13
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 4 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/14
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 5 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 5 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/15
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 6 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS 6 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/16
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS XTRA FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS XTRA FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/17
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS premium 1 FHD " tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS premium 1 FHD 
+http://freeiptvgen.com:25461/416899/freeiptvgen/18
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS premium 2 FHD " tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS premium 2 FHD 
+http://freeiptvgen.com:25461/416899/freeiptvgen/19
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS premium 3 FHD" tvg-logo="" group-title="Bein sport FHD",BeIN SPORTS premium 3 FHD
+http://freeiptvgen.com:25461/416899/freeiptvgen/20
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 low" tvg-logo="http://www.iptvforall.net/newlogo/be_in_mena_sports_01_hd.png" group-title="beIN SPORTS",BEIN SPORTS 1 low
 http://freeiptvgen.com:25461/416899/freeiptvgen/1
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 low" tvg-logo="http://www.iptvforall.net/newlogo/be_in_mena_sports_02_hd.png" group-title="beIN SPORTS",BEIN SPORTS 2 low
