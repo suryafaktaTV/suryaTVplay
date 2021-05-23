@@ -163,6 +163,8 @@ http://nonton.site:8888/Alifathaya/e99MqfUxic/591
 http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
 https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
+#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 2
+https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1621747825~hmac=9be8fe154a890202803b0c4e58168fdc64b7e5024f317e7bcf3703436c2414f3
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
 https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1621599958~hmac=2c0bbcca5e6b4513f5801b9c9277924d5bf5db54188e0ebc493a6876b85b3950 
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
