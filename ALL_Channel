@@ -158,7 +158,7 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie2", HBO HITS (asia)
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits 2
-https://hboasialive.akamaized.net/hls/live/2007801/HITS/index.m3u8?hdnts=exp=1621598128~hmac=3efabd5cef5c4c98ba90c4629c4fc84ffb931fae5d8406aa0435baf93391755a
+http://nonton.site:8888/Athayamanja/SHFTZRKFrF/591
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
 http://210.210.155.35/session/abe709e2-8b04-11ea-a706-c81f66f89318/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
