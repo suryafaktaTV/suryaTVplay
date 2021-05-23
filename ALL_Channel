@@ -416,6 +416,26 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 
 //BEIN
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 low" tvg-logo="http://www.iptvforall.net/newlogo/be_in_mena_sports_01_hd.png" group-title="beIN SPORTS",BEIN SPORTS 1 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 low" tvg-logo="http://www.iptvforall.net/newlogo/be_in_mena_sports_02_hd.png" group-title="beIN SPORTS",BEIN SPORTS 2 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_03_hd.png" group-title="beIN SPORTS",BEIN SPORTS 3 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_04_hd.png" group-title="beIN SPORTS",BEIN SPORTS 4 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_05_hd.png" group-title="beIN SPORTS",BEIN SPORTS 5 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_06_hd.png" group-title="beIN SPORTS",BEIN SPORTS 6 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_07_hd.png" group-title="beIN SPORTS",BEIN SPORTS XTRA low
+http://freeiptvgen.com:25461/416899/freeiptvgen/7
+#EXTINF:-1 tvg-id="" tvg-name=" BEIN SPORTS premium 1 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_08_hd.png" group-title="beIN SPORTS", BEIN SPORTS premium 1 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/8
+#EXTINF:-1 tvg-id="" tvg-name=" BEIN SPORTS premium 2 low" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_09_hd.png" group-title="beIN SPORTS", BEIN SPORTS premium 2 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/9
+#EXTINF:-1 tvg-id="" tvg-name=" BEIN SPORTS premium 3 low" tvg-logo="" group-title="beIN SPORTS", BEIN SPORTS premium 3 low
+http://freeiptvgen.com:25461/416899/freeiptvgen/3768
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 1 
 http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/668 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN PREMUIM 1 HD 
