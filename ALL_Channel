@@ -273,8 +273,8 @@ http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8                
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/wakuwaku.png" group-title="Entertainment", [suryaTV]Waku Waku Japan 
 https://tv.cpdev.us/Playlist/usee1/248.m3u8?t=2510c39011c5be704182423e3a695e9
- #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner 
-https://tv.cpdev.us/Playlist/usee1/258.m3u8?t=2510c39011c5be704182423e3a695e91
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner 
+http://nonton.site:8888/Alifathaya/e99MqfUxic/1533
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/warner.png" group-title="Entertainment", [suryaTV]Warner2 
 http://bonev2.xyz/playlist/usee-warner-new-bonetv.m3u8
  #EXTINF:-1, group-title="Entertainment",[suryaTV]KBS World 2
