@@ -23,7 +23,7 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="suryaTV-LOKAL", [suryaTV]NET TV
 http://home-tv.my.id/RHS/ampera.m3u8?channel=vidio-875
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV
-http://home-tv.my.id/RHS/ampera.m3u8?channel=vidio-1561 
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 2
@@ -57,7 +57,7 @@ https://nonton.site:8443/6894864475/7163819284/30183
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="lokal_2",Indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1621489436~acl=/hls-p/ingest_205_*/*~hmac=cd45b7f2222314e85edc03fc4146b6083b2b734934d81a428be50f6edb4ffa5b/hls-p/ingest_205_720p/index.m3u8 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="lokal_2",Indosiar 2
-http://zalogi.xyz/cust/serZALogi.m3u
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="lokal_2",Jak TV
 https://nonton.site:8443/6894864475/7163819284/1210
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="lokal_2",JTV
@@ -73,7 +73,7 @@ http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-rtv
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="lokal_2",SCTV HD
-http://50.7.218.66:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162141?token=ShUNAEFcElxEXAxSDloHXgICBwBVAwMPAwQABFIHWVYHUlRWAgcGVQAaGEZKTREDAFhpWAUVDwgAA1JWBk5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUECAIHVlEBTkMTWFNHWxAHBl9WGhhGXEEXAxNbV10+U1BPX1IGQA0MFA9dG0cOXGtUAwtZWgAbA0FXQxkUWBJHFwNYRA8OG0ADCkVFBBVXFgpEVwoFUhsVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1ITG0cMU0xvBQlWWgFaTQoJD0YUC0MFBQkGE09AWg0PCkVYFz5CXVREXBoGVw0PVEQc
+http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 
 http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=trans7
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="lokal_2",Trans 7 FHD
