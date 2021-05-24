@@ -118,11 +118,12 @@ http://abdrahim.my.id/live/tvindo/citradrama.m3u8
 http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6587
 
 ___________MOVIE________
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy https://radenroro.net/RHS/homempd.php?channel=galaxy 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium SD
 https://cdn11jtedge.useetv.com/dass/133/galaxy_dash/manifest_wuseetv.mpd?encp=TEHkxQumrTPh-mQ3pBbW6A&amp;uid=MjMwZmE1MjM2MGQwZDEyMDY5Yzk5ZGU5NjgwZDdiYmU=&amp;expp=1621098288
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium  
-https://radenroro.net/RHS/homempd.php?channel=galaxypremium 
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie
 http://210.210.155.35/session/5294ab4c-bc68-11eb-bfe3-8ed08b6efd5f/qwr9ew/s/s33/01.m3u8 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie2
