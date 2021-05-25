@@ -701,8 +701,20 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 ____
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="VOD avenger",end game 
-http://srv43.nf21.net/files/10-2021-04-28-4465ead36c6dbbe9e4de4f7ce5834018.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",IRON_MAN 1 
+http://srv40.nf21.net/files/11-2020-06-10-5a319f7db185e78ef825219de91fe9da.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",IRON_MAN 2 
+http://srv26.nf21.net/files/6-2018-11-14-735d854773d64a05a88fc7fcc5dc0fea.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",IRON_MAN 3 
+http://srv28.nf21.net/files/6-2019-02-02-d8fd874b0a294250bc1ff8095405f914.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",THOR(2011) 
+http://srv30.nf21.net/files/11-2018-12-27-207316b4ded85be251645d3c54975846.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",THOR(2013) 
+http://srv28.nf21.net/files/6-2019-02-17-09fd510b22d96435482274a283361d51.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",(AVENGER)AGE_OF_UTRON
+http://srv14.nf21.net/files/15-2018-07-18-5576eae13186f5c733884dfab17fc774.mp4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",(AVENGER)END_GAME 2019
+http://srv32.nf21.net/files/10-2020-04-24-8270da303d1db08f3a035c4af7d65d81.mp4
 
 ___VOD G.F.N.H___
 
