@@ -121,7 +121,8 @@ ___________MOVIE________
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium SD
-https://cdn11jtedge.useetv.com/dass/133/galaxy_dash/manifest_wuseetv.mpd?encp=TEHkxQumrTPh-mQ3pBbW6A&amp;uid=MjMwZmE1MjM2MGQwZDEyMDY5Yzk5ZGU5NjgwZDdiYmU=&amp;expp=1621098288
+http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=galaxypremium&bandwidth=b684100&sync=0
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME=
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium  
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie
