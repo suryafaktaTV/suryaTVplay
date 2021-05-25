@@ -110,7 +110,7 @@ http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6684
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="lokaltainment", Citra Entertainment (Vidio) 
 http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6402
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="lokaltainment", Dunia Lain2
-http://home-tv.my.id/RHS/mpdhometv.m3u8?channel=dunialain
+http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=dunialain&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="lokaltainment", Citra Drama (Vidio)  
 http://abdrahim.my.id/live/tvindo/citradrama.m3u8
 
