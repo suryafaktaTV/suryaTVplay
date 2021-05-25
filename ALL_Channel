@@ -202,7 +202,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #EXTINF:-1 tvg-id="rodjatv" tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="suryaMstream",RODJA TV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="suryaMstream",MYTV 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd 
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157603
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mcc.png" group-title="suryaMstream",MCC 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd 
 #EXTINF:-1 tvg-id="useeprime" tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="suryaMstream", UseePrime 
