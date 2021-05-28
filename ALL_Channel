@@ -705,6 +705,110 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 ____
 
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165114766/d-1" group-title="The Bridge S01",Episode 1
+https://vuclip-eip2.akamaized.net/4d24a679999ed294a8e837c1e6ec6ec8/vp63207_V20201011185531/hlsc_whe2931_V20201011203606.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165122464/d-1" group-title="The Bridge S01",Episode 2
+https://vuclip-eip2.akamaized.net/ee5ce0c900fc25879cf8e02acddb023a/vp63207_V20201011185544/hlsc_whe2931_V20201011203839.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165120419/d-1" group-title="The Bridge S01",Episode 3
+https://vuclip-eip2.akamaized.net/c5065b80b1de3363990e800e9004fb90/vp63207_V20201013051851/hlsc_whe2931_V20201013065633.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165124848/d-1" group-title="The Bridge S01",Episode 4
+https://vuclip-eip2.akamaized.net/5909f1c0a838b507af75ade55df72a79/vp63207_V20201011185524/hlsc_whe2931_V20201011203635.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165139755/d-1" group-title="The Bridge S01",Episode 5
+https://vuclip-eip2.akamaized.net/834576edcefc34b0487e27337852076b/vp63207_V20200813172819/hlsc_whe2931_V20200813191203.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165149350/d-1" group-title="The Bridge S01",Episode 6
+https://vuclip-eip2.akamaized.net/66a3115dd5edd804494d983ba8d65191/vp63207_V20201013052655/hlsc_whe2931_V20201013070801.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165191790/d-1" group-title="The Bridge S01",Episode 7
+https://vuclip-eip2.akamaized.net/8671840f8740a4e62d5da7a657f17a8c/vp63207_V20201011185524/hlsc_whe2931_V20201011203609.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165246138/d-1" group-title="The Bridge S01",Episode 8
+https://vuclip-eip2.akamaized.net/b37f5d31eb9969d17d290c56c801b2c4/vp63207_V20201011185537/hlsc_whe2931_V20201011203404.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165281411/d-1" group-title="The Bridge S01",Episode 9
+https://vuclip-eip2.akamaized.net/cf27d3e6dfb6e5e39b36c1517a6d3230/vp63207_V20201013083656/hlsc_whe2931_V20201013102119.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165353294/d-1" group-title="The Bridge S01",Episode 10
+https://vuclip-eip2.akamaized.net/1ea9b0737e0338e98cbdae35ec0ab444/vp63207_V20201011185518/hlsc_whe2931_V20201011203558.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165734558/d-1" group-title="The Bridge S02",Episode 1
+https://vuclip-eip2.akamaized.net/9810a3f899fddf0e199bc6afeb49eccd/vp63207_V20201011202627/hlsc_whe2931_V20201011214844.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165735724/d-1" group-title="The Bridge S02",Episode 2
+https://vuclip-eip2.akamaized.net/9671d34ec734c7ee07bad1867374682e/vp63207_V20201011185457/hlsc_whe2931_V20201011202749.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165734575/d-1" group-title="The Bridge S02",Episode 3
+https://vuclip-eip2.akamaized.net/83ba40399a980ec10640f15c4715198b/vp63207_V20201011185456/hlsc_whe2931_V20201011201304.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165737527/d-1" group-title="The Bridge S02",Episode 4
+https://vuclip-eip2.akamaized.net/e829ff9e550a1cdef6a5b5b31a309c03/vp63207_V20201011185402/hlsc_whe2931_V20201011201823.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165755263/d-1" group-title="The Bridge S02",Episode 5
+https://vuclip-eip2.akamaized.net/c08357dd9af5807583abd6b901f405db/vp63207_V20201011141927/hlsc_whe2931_V20201011153845.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165755264/d-1" group-title="The Bridge S02",Episode 6
+https://vuclip-eip2.akamaized.net/77f424ca86bebd48901675ab56027361/vp63207_V20201011141924/hlsc_whe2931_V20201011154310.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165753370/d-1" group-title="The Bridge S02",Episode 7
+https://vuclip-eip2.akamaized.net/b63af36a284c3e7422587e2e3170a031/vp63207_V20201011141924/hlsc_whe2931_V20201011153820.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165755262/d-1" group-title="The Bridge S02",Episode 8
+https://vuclip-eip2.akamaized.net/dbd5dd169f2d6ebc8fa1d8daca6d53fd/vp63207_V20201011141924/hlsc_whe2931_V20201011155139.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165757183/d-1" group-title="The Bridge S02",Episode 9
+https://vuclip-eip2.akamaized.net/c9abf627c70382b0678053369d970821/vp63207_V20201011141924/hlsc_whe2931_V20201011153646.m3u8
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165759565/d-1" group-title="The Bridge S02",Episode 10
+https://vuclip-eip2.akamaized.net/0c433c3ca6f8047cbf957736cba4371a/vp63207_V20201011141755/hlsc_whe2931_V20201011154256.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165811906/d-1" group-title="Viu",Teaser Mr Queen
+https://vuclip-eip2.akamaized.net/57a06b54904e04f9e94631b7f486aeb7/vp63207_V20201125071821/hlsc_whe2931_V20201125071911.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165819702/d-1" group-title="Viu",Mr. Queen - Episode 1
+https://vuclip-eip2.akamaized.net/30ab177e702f0018c485a8d1abafbeec/vp63207_V20201213024420/hlsc_whe2931_V20210107102934.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165820135/d-1" group-title="Viu",Mr. Queen - Episode 2
+https://vuclip-eip2.akamaized.net/b9f5444da6733d52ee7402b013d2d442/vp63207_V20201214070143/hlsc_whe2931_V20210107102943.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165823694/d-1" group-title="Viu",Mr. Queen - Episode 3
+https://vuclip-eip2.akamaized.net/b7054edb146af4a20f917f75937c7dcd/vp63207_V20201219230138/hlsc_whe2931_V20210107102943.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165823815/d-1" group-title="Viu",Mr. Queen - Episode 4
+https://vuclip-eip2.akamaized.net/1760942f6dac952ab8d78a844f0d2b1b/vp63207_V20201221000038/hlsc_whe2931_V20210107102934.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165825949/d-1" group-title="Viu",Mr. Queen - Episode 5
+https://vuclip-eip2.akamaized.net/330d8403eaeac32d2686e17499efcc2f/vp63207_V20201227032127/hlsc_whe2931_V20210107102934.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165826097/d-1" group-title="Viu",Mr. Queen - Episode 6
+https://vuclip-eip2.akamaized.net/febf47d8bd80841d6b69e88d21717fe9/vp63207_V20201228022137/hlsc_whe2931_V20210107102948.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165829632/d-1" group-title="Viu",Mr. Queen - Episode 7
+https://vuclip-eip2.akamaized.net/13485b49a58fcd19f6ff2cdc5639c53a/vp63207_V20210103012137/hlsc_whe2931_V20210107122450.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165829699/d-1" group-title="Viu",Mr.Queen - Episode 8
+https://vuclip-eip2.akamaized.net/db3c5cc02e7568ddf1297e2e27056615/vp63207_V20210103210209/hlsc_whe2931_V20210104111516.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165832157/d-1" group-title="Viu",Mr. Queen - Episode 9
+https://vuclip-eip2.akamaized.net/ef8d90597a07dfbbd0aae4474e4b196b/vp63207_V20210109220034/hlsc_whe2931_V20210110100224.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165832250/d-1" group-title="Viu",Mr. Queen - Episode 10
+https://vuclip-eip2.akamaized.net/084a283b2d6ff04fedb03e9f6bcd47f2/vp63207_V20210110220118/hlsc_whe2931_V20210111100202.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165835126/d-1" group-title="Viu",Mr. Queen - Episode 11
+https://vuclip-eip2.akamaized.net/baed5645befdc0fb1c44011a4b75b652/vp63207_V20210116220052/hlsc_whe2931_V20210117081104.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165835253/d-1" group-title="Viu",Mr. Queen - Episode 12
+https://vuclip-eip2.akamaized.net/77ad42caf59bd73c16cea12cf37496fb/vp63207_V20210117220153/hlsc_whe2931_V20210118081721.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165837469/d-1" group-title="Viu",Mr. Queen - Episode 13
+https://vuclip-eip2.akamaized.net/f2b8c331f91d8341616074cb52a38386/vp63207_V20210123220147/hlsc_whe2931_V20210124100219.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165837730/d-1" group-title="Viu",Mr. Queen - Episode 14
+https://vuclip-eip2.akamaized.net/2720c3a3825622d70759dd08d9dfa4f5/vp63207_V20210124230141/hlsc_whe2931_V20210125110216.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165841864/d-1" group-title="Viu",Mr. Queen - Episode 15
+https://vuclip-eip2.akamaized.net/b63ba269f4354c7c2d1c26d06092fc1c/vp63207_V20210131000250/hlsc_whe2931_V20210131090126.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165842204/d-1" group-title="Viu",Mr. Queen - Episode 16
+https://vuclip-eip2.akamaized.net/3096015be4741f289463742fd050a3a1/vp63207_V20210131210108/hlsc_whe2931_V20210201071048.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165845110/d-1" group-title="Viu",Mr. Queen - Episode 17
+https://vuclip-eip2.akamaized.net/9e2e34879fcfda9bdc698cee13745b1d/vp63207_V20210207050203/hlsc_whe2931_V20210208033745.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165845329/d-1" group-title="Viu",Mr. Queen - Episode 18
+https://vuclip-eip2.akamaized.net/c678223620a8a2ce3a1d1c8295cec290/vp63207_V20210207200038/hlsc_whe2931_V20210209025323.m3u8
+
+#EXTINF:-1 tvg-logo="https://vuclipi-a.akamaihd.net/p/cloudinary/h_300,w_300,dpr_1,f_auto,c_thumb,q_auto:low/1165847406/d-1" group-title="Viu",Mr. Queen - Episode 19
+https://vuclip-eip2.akamaized.net/560328ba21c65a43710b06323b6e83d4/vp63207_V20210214022135/hlsc_whe2931_V20210214040657.m3u8
+_____
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",IRON_MAN 1 
 http://srv40.nf21.net/files/11-2020-06-10-5a319f7db185e78ef825219de91fe9da.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MARVEL STUDIO",IRON_MAN 2 
