@@ -518,10 +518,10 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/1885
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="beIN SPORTS",BEIN SPORTS NBA HD 
 http://xtra.xcs521.cz:8080/00:1A:79:17:01:09/ziajdjjfdifjd64646/63912 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ALLSport",SETANTA SPORT 1
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ALLSport",SETANTA SPORT 2
-http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ALLSport",SETANTA_SPORT 1 
+http://ott-cdn.ucom.am/s81/04.m3u8 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ALLSport",SETANTA_SPORT 2 
+http://92.43.140.200/s82/04.m3u8 
 #EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 1 HD
 http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16944?checkedby:SuryaTV
 #EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 2 HD
