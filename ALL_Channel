@@ -55,7 +55,7 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="suryaTV-LOKAL",Hope Channel
 https://nonton.site:8443/6894864475/7163819284/30183
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="suryaTV-LOKAL",Indosiar(link2)
-https://etslive-2-vidio-com.akamaized.net/exp=1621489436~acl=/hls-p/ingest_205_*/*~hmac=cd45b7f2222314e85edc03fc4146b6083b2b734934d81a428be50f6edb4ffa5b/hls-p/ingest_205_720p/index.m3u8 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="suryaTV-LOKAL",Indosiar 2
 http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="suryaTV-LOKAL",Jak TV
