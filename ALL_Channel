@@ -372,7 +372,9 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
 https://nonton.site:8443/6894864475/7163819284/358 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Knowledge", History 
 http://iptvtree.net:8080/test-220471/4008/162519
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (id)
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/96?token=QhBYV0dYRg4TWgUDVFEFAFJQVgAECFVXAAwFAgIFAAYBVlNUAgBWDAIaSBAQEEJXVQhvWgIbCVwPGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVwwBBQRXAE1ASVtUFA4SXQYDD0YeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDFmBlTxY1J3V5f3sUeSpwfnYhYSolEh4WB1lHFFhHABsOEgBUDlFAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWAglUAkMf
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (2)
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
