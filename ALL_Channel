@@ -12,6 +12,10 @@ https://livestreaming-google-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", ANTV_
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", antv (cadangan)
+http://45.126.83.51/session/cfb290ec-c381-11eb-bc78-9e86b28b9396/qwr9ew/s/s07/01.m3u8 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="suryaTV-LOKAL",ANTV (cadangan)
+http://210.210.155.35/session/a5a2e2da-c222-11eb-a0ec-8f6fa75e1752/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link2)
 http://51.15.26.210:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072?token=ShUNAEFcElxEDQxXCl0HAFQCAQYCVQ0AAAVaVVIEUVdSAwFVUA1TUwAaGEZKTREDAFhpWAUVDwgABFNVBU5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFDgMCWlEATkMTWFNHWxAGBVFVDRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAkGVA8bT0QCWkNfFUVMGwwTISUVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQ4JVVdDSA==
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link3)
@@ -38,12 +42,8 @@ _____lokal_2___
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC (cadangan)
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-870 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", antv (cadangan)
-http://45.126.83.51/session/cfb290ec-c381-11eb-bc78-9e86b28b9396/qwr9ew/s/s07/01.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV-LOKAL",Antara TV(link2) 
 http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-antara
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="suryaTV-LOKAL",ANTV (cadangan)
-http://210.210.155.35/session/a5a2e2da-c222-11eb-a0ec-8f6fa75e1752/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="suryaTV-LOKAL",Bali TV 
 https://nonton.site:8443/6894864475/7163819284/889
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="suryaTV-LOKAL",DAAI TV 
