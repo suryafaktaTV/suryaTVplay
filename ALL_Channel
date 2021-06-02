@@ -578,13 +578,13 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ASTRO SPORT",supersport4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 
+#EXTINF:-1, group-title="ASTRO SPORT" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 
+#EXTINF:-1, group-title="ASTRO SPORT" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 
+#EXTINF:-1, group-title="ASTRO SPORT" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
+#EXTINF:-1, group-title="ASTRO SPORT" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 _____premier sport____
