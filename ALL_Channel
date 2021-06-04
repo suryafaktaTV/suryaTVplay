@@ -177,6 +177,8 @@ https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1
 https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1621599958~hmac=2c0bbcca5e6b4513f5801b9c9277924d5bf5db54188e0ebc493a6876b85b3950 
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
 http://nonton.site:8888/Alifathaya/e99MqfUxic/30185 
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID-2
+http://iya.mba:8888/live/siingkat/BMBJh/2156.m3u8
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
 http://nonton.site:8888/Alifathaya/e99MqfUxic/4832
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movie2", Flik 
