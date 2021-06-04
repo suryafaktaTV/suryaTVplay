@@ -131,6 +131,8 @@ http://210.210.155.35/session/5294ab4c-bc68-11eb-bfe3-8ed08b6efd5f/qwr9ew/s/s33/
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Movies", HITS 
 https://nonton.site:8443/6894864475/7163819284/1195
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXVBgk/20210504-053009.png"group-title="Movies",FoxID
+http://iya.mba:8888/live/siingkat/BMBJh/95.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjXVBgk/20210504-053009.png"group-title="Movies",FoxMovies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fSjz0Bp/20210504-053351.png"group-title="Movies",Foxlife
@@ -181,6 +183,8 @@ http://nonton.site:8888/Alifathaya/e99MqfUxic/30185
 http://iya.mba:8888/live/siingkat/BMBJh/2156.m3u8
 #EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
 http://nonton.site:8888/Alifathaya/e99MqfUxic/4832
+#EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO (ID)
+http://iya.mba:8888/live/siingkat/BMBJh/4832.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movie2", Flik 
 http://nonton.site:8888/Alifathaya/e99MqfUxic/29592
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
