@@ -149,8 +149,6 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
 http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(HD)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(ID)
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(malaysia)
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
