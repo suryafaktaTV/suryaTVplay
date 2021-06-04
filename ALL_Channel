@@ -155,6 +155,8 @@ http://iya.mba:8888/live/siingkat/BMBJh/210.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
 https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1621598132~hmac=55626012b66519164d91d48c00f440ede8c94a93beb60fe185bfc838eced12ea 
+#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature(ID)
+http://iya.mba:8888/live/siingkat/BMBJh/873.m3u8
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_signature_small.gif" group-title="Movie2", HBO SIGNATURE(MAY)
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie2", HBO HITS (asia)
