@@ -65,11 +65,11 @@ https://nonton.site:8443/6894864475/7163819284/135
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="suryaTV-LOKAL",Life
 https://nonton.site:8443/6894864475/7163819284/1772
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV(link2)
-http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-net
+http://iya.mba:8888/live/siingkat/BMBJh/24.m3u8
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV (link3)
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="suryaTV-LOKAL",Rajawali TV
-http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-rtv
+http://iya.mba:8888/live/siingkat/BMBJh/37.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV(link3)
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV HD
