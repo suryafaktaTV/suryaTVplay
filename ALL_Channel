@@ -17,10 +17,6 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
 http://iya.mba:8888/live/siingkat/BMBJh/31.m3u8 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="suryaTV-LOKAL",ANTV (cadangan)
 http://210.210.155.35/session/a5a2e2da-c222-11eb-a0ec-8f6fa75e1752/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link2)
-http://51.15.26.210:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072?token=ShUNAEFcElxEDQxXCl0HAFQCAQYCVQ0AAAVaVVIEUVdSAwFVUA1TUwAaGEZKTREDAFhpWAUVDwgABFNVBU5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFDgMCWlEATkMTWFNHWxAGBVFVDRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAkGVA8bT0QCWkNfFUVMGwwTISUVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQ4JVVdDSA==
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", [suryaTV] ANTV(link3)
-http://210.210.155.35/session/f0c659be-c221-11eb-8088-a45cb0a37d11/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="suryaTV-LOKAL", [suryaTV]Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1809835107_b344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="suryaTV-LOKAL", [suryaTV]GTV
