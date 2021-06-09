@@ -5,10 +5,18 @@ https://video.fsub8-1.fna.fbcdn.net/v/t42.1790-29/10000000_777702986246506_36426
 http://home-tv.my.id/RHS/kuncoro.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="suryaTV-LOKAL", [suryaTV]TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1008015573_b744100_sleng.m3u8 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="suryaTV-LOKAL",Trans TV(link2)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="suryaTV-LOKAL",Trans TV FHD
+https://nonton.site:8443/6894864475/7163819284/929
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="suryaTV-LOKAL",[suryaTV]SCTV 
 https://livestreaming-google-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV(link3)
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV HD
+http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="suryaTV-LOKAL",[suryaTV]RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="suryaTV-LOKAL", ANTV_
@@ -21,10 +29,18 @@ http://iya.mba:8888/live/siingkat/BMBJh/31.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1809835107_b344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="suryaTV-LOKAL", [suryaTV]GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1622181620~acl=/hls-p/ingest_778_*/*~hmac=c7c7ec19a542f821e69d8715eaaf5d9525f91489b51bc96c0648800ac29a3f9e/hls-p/ingest_778_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="suryaTV-LOKAL",GTV_2 (cadangan)
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="suryaTV-LOKAL", [suryaTV]NET TV
 http://home-tv.my.id/RHS/ampera.m3u8?channel=vidio-875
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV(link2)
+http://iya.mba:8888/live/siingkat/BMBJh/24.m3u8
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV (link3)
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="suryaTV-LOKAL", [suryaTV]RTV
 http://210.210.155.35/qwr9ew/s/s12/02.m3u8 
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="suryaTV-LOKAL",Rajawali TV
+http://iya.mba:8888/live/siingkat/BMBJh/37.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="suryaTV-LOKAL", [suryaTV]TVONE 2
@@ -35,8 +51,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_b3884000_sleng.m3u8
 
 _____lokal_2___
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="suryaTV-LOKAL",GTV_2 (cadangan)
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC (cadangan)
 http://home-tv.my.id/RHS_juni_sribawono/maling.php?channel=vidio-870 
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV-LOKAL",Antara TV(link2) 
@@ -61,24 +75,10 @@ https://nonton.site:8443/6894864475/7163819284/1210
 https://nonton.site:8443/6894864475/7163819284/135
 #EXTINF:-1 tvg-id="" tvg-name="Life" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="suryaTV-LOKAL",Life
 https://nonton.site:8443/6894864475/7163819284/1772
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV(link2)
-http://iya.mba:8888/live/siingkat/BMBJh/24.m3u8
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="suryaTV-LOKAL",NET TV (link3)
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="suryaTV-LOKAL",Rajawali TV
-http://iya.mba:8888/live/siingkat/BMBJh/37.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV(link3)
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="suryaTV-LOKAL",SCTV HD
-http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="suryaTV-LOKAL",Trans 7(link2)
 http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=trans7
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="suryaTV-LOKAL",Trans 7 FHD
 https://nonton.site:8443/6894864475/7163819284/930
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="suryaTV-LOKAL",Trans TV(link2)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="suryaTV-LOKAL",Trans TV FHD
-https://nonton.site:8443/6894864475/7163819284/929
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="suryaTV-LOKAL",U Channel
 https://nonton.site:8443/6894864475/7163819284/1208
 #EXTINF:-1 tvg-id="" tvg-name="Kontes Nyanyi" tvg-logo="" group-title="suryaTV-LOKAL",Kontes Nyanyi
