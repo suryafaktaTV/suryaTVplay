@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" , SURYA_tv
 https://video.fsub8-1.fna.fbcdn.net/v/t42.1790-29/10000000_777702986246506_3642642673486908990_n.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV ð‹ð¨ðœðšð¥",Antara TV
+#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="ð‹ð¨ðœðšð¥",Antara TV
 http://home-tv.my.id/RHS/kuncoro.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="suryaTV ð‹ð¨ðœðšð¥", [suryaTV]TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1008015573_b744100_sleng.m3u8 
