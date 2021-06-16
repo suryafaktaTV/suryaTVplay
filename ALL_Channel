@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 1
+http://ott-cdn.ucom.am/s83/03.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 2
+http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=linksports
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 3
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 4
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 5
+http://goldenlivektv.com/Bagi/intro_ktv.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 6
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg- logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 7
+https://d1f63mkc7wrbq6.cloudfront.net/out/v1/481780e02dd440ef8fecd0003fecb833/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png"group-title="[LIVE]",LIVE 8 
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]",LIVE 9
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/liveeee.png" group-title="[LIVE]" ,LIVE 10
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" , SURYA_tv
 https://video.fsub8-1.fna.fbcdn.net/v/t42.1790-29/10000000_777702986246506_3642642673486908990_n.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="ð‹ð¨ðœðšð¥",Antara TV
