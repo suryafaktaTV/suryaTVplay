@@ -49,7 +49,7 @@ http://iya.mba:8888/live/siingkat/BMBJh/31.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="suryaTV ð‹ð¨ðœðšð¥", [suryaTV]Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1809835107_b344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="suryaTV ð‹ð¨ðœðšð¥", [suryaTV]GTV
-http://abdrahim.my.id/live/tvindo/gtv.m3u8gest_778_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1624303745~acl=/hls-p/ingest_778_*/*~hmac=f64490c35aaeb60c2d1fb8fa6a2b1adbe8ef476de7c8305d4da10891b10d5707/hls-p/ingest_778_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QnDPDLYSHiH3cgVTHW3KxBvvy6Q=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/bc64b2.png" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="suryaTV ð‹ð¨ðœðšð¥",GTV_2 (cadangan)
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="suryaTV ð‹ð¨ðœðšð¥", [suryaTV]NET TV
@@ -77,7 +77,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_b3884000_sleng.m3u8
 
 _____lokal_2___
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="suryaTV-LOKAL", [suryaTV]MNC (cadangan)
-http://abdrahim.my.id/live/tvindo/mnc.m3u8 
+https://etslive-2-vidio-com.akamaized.net/exp=1624303814~acl=/hls-p/ingest_870_*/*~hmac=36d7f9eb52d05fef50466ca272570673cc295e915775345e62d14355b2812116/hls-p/ingest_870_360p/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="suryaTV ð‹ð¨ðœðšð¥",Antara TV(link2) 
 http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="suryaTV-LOKAL",Bali TV 
