@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤjangan ㅤdicuri
-https://emoji.mrz.kn
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤuntuk ㅤ tivimate ㅤjuga
-https://yt.by.mrzdox
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤtidakㅤ untuk ㅤdiperjualbelikan
-https://bla.bla.bla
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T B    selalu    update
-https://com.web.browser
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤuntukㅤottㅤnavigator
-https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
-#EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤgratisㅤadaㅤdiㅤsini
-https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
-http://api.mbed.cc/yt.php?id=SwYO80ArYv4
 
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
@@ -29,9 +15,6 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -157,9 +140,6 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
 
 
 #EXTINF:0 tvg-id="ext" group-title="TV Nasional",UseePrime
@@ -432,9 +412,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.co
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -663,9 +640,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
 
 
 #EXTINF:-1 group-title="Music", MTV Biggest Pop
@@ -919,9 +893,6 @@ https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-115 group-title="Religi" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV (Backup)
 https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB Channel
-https://youtube.com/c/AzizHTBChannel
 
 
 #EXTINF:-115 group-title="Religi" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV
