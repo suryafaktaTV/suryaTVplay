@@ -1,23 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="vision+",RCTI 
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="vision+",GTV 
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="vision+",MNCTV HD 
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+https://on-load.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="vision+",SCTV HD 
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+https://on-load.mncnow.id/live/eds/SCTV-HD/sa_dash_vmx/SCTV-HD.mpd
 #EXTINF:-1 group-title="vision+",ANTV HD 
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+https://on-load.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="vision+",INDOSIAR HD 
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+https://on-load.mncnow.id/live/eds/INDOSIAR-HD/sa_dash_vmx/INDOSIAR-HD.mpd
 #EXTINF:-1 group-title="vision+",TRANSTV HD 
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+https://on-load.mncnow.id/live/eds/TRANSTV-HD/sa_dash_vmx/TRANSTV-HD.mpd
 #EXTINF:-1 group-title="vision+",TRANS7 HD 
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+https://on-load.mncnow.id/live/eds/TRANS7-HD/sa_dash_vmx/TRANS7-HD.mpd
 #EXTINF:-1 group-title="vision+",NET TV HD 
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+https://on-load.mncnow.id/live/eds/NET-HD/sa_dash_vmx/NET-HD.mpd
 
 #EXTINF:-1 group-title="suryaTV",BANTU_sawer 081235393956
 
