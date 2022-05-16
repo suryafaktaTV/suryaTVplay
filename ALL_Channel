@@ -38,27 +38,27 @@ https://streaming.useetv.com/dass/130/imc_dash/manifest_wuseetv.mpd?enc=YwUMjuDj
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=pTlSpcE1RxB58xN52XDUFg&exp=1630303205&tvcode=thrill&uid=2935687&utoken=
 https://streaming.useetv.com/dass/134/thrill_dash/manifest_wuseetv.mpd?enc=iJ2KpXtT6YBeN7b5s943KQ&exp=1630299905&encp=p5rt-fcPTlaCECxYQIUCMw&expp=1630310405
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmoviews_small.png" tvg-id="BathokGpc" tvg-name="tvnmovies" group-title="Movie",tvnmovies
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmoviews_small.png" tvg-id="BathokGpc" tvg-name="tvnmovies" group-title="HIBURAN",tvnmovies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_celestialmovie_small.png" tvg-id="BathokGpc" tvg-name="CelestialMovie" group-title="Movie",CelestialMovie
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_celestialmovie_small.png" tvg-id="BathokGpc" tvg-name="CelestialMovie" group-title="HIBURAN",CelestialMovie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm" group-title="Movie",Scm
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm" group-title="HIBURAN",Scm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm Legend" group-title="Movie",Scm Legend
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" tvg-id="BathokGpc" tvg-name="Scm Legend" group-title="HIBURAN",Scm Legend
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" tvg-id="BathokGpc" tvg-name="Ccm" group-title="Movie",Ccm
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" tvg-id="BathokGpc" tvg-name="Ccm" group-title="HIBURAN",Ccm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cinemaworld_small.png" tvg-id="BathokGpc" tvg-name="CinemaWorld" group-title="Movie",CinemaWorld
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cinemaworld_small.png" tvg-id="BathokGpc" tvg-name="CinemaWorld" group-title="HIBURAN",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
