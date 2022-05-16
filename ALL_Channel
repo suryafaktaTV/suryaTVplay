@@ -1733,8 +1733,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="ASTRO MALAYSIA",TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 group-title="TV MUSIC", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 501 AU
