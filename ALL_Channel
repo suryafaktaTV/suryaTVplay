@@ -78,6 +78,7 @@ https://on-load.mncnow.id/live/eds/NET-HD/sa_dash_vmx/NET-HD.mpd
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE EVENT",DONASi DANA 0812-3539-3956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 1
 http://stariptv.org:8080/live/basma2022/123456/150160.ts
@@ -795,7 +796,7 @@ http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DENS.TV", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 ====++++++++++++++++=======+++++++++++++++++Kids============+++++++++++
 
 #EXTINF:-1 tvg-id="550" tvg-name="Dreamwork" tvg-logo="http://mantul.biz.id:8888/images/86350332ec8f9d8247616da6689366f3.png" group-title="KIDS",Dreamwork
@@ -879,8 +880,7 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS", 3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 DONASI DANA 0812-3539-3956 
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 =====++++++++++++++++++++++++++++++++++++++++Knowledge=++++++++++==+++=+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1024,7 +1024,7 @@ http://rr1.dens.tv/h/h28/01.m3u8
 http://rr1.dens.tv/h/h01/01.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 1
 https://link.zozotv.xyz:443/fx2/fx2/360
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2
@@ -1064,7 +1064,7 @@ http://mvu03.wanicelife.com:8880/live/SWFAF142528/E964RFED/71105.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="@halakkitachtest" group-title="TV SPORT",Champion TV 1 HD backup
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjnfDToGXpfWq34fgyUPtdg/ts
 #EXTINF:-1 tvg-logo="@halakkitachtest" group-title="TV SPORT",Champion TV 2 HD backup
@@ -1268,7 +1268,7 @@ http://1tv1.net:8080/basma2022/123456/58989
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",IT: Sky Sport MotoGP
 http://1tv1.net:8080/basma2022/123456/58986
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-id="" tvg-name="01 | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV SPORT",01 | DIRECTV SPORTS
 http://00322.xyz:8000/pevi59/NTX13FE/145400
 #EXTINF:-1 tvg-id="" tvg-name="02 | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="TV SPORT",02 | DIRECTV SPORTS 2
@@ -1332,7 +1332,7 @@ http://red.ipfox.org:8080/osama2022/osama2023/2982
 #EXTINF:-1 tvg-id="ext" group-title="TV SPORT",|DSTV| SuperSport WWE
 http://red.ipfox.org:8080/osama2022/osama2023/25512
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-ID="" tvg-name="beIN AFC Global HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="TV SPORT",beIN_AFC_Global HD
 http://stariptv.org:8080/nour2020/123456/165062
 #EXTINF:-1 tvg-ID="" tvg-name="beIN AFC1 HD" tvg-logo="http://stariptv.org:80/logo/bein.jpg" group-title="TV SPORT",beIN_AFC1 HD
@@ -1496,7 +1496,7 @@ http://AllLiveSportsLinks.myftp.org:80/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",StarSports_Select_2.HD 
 http://AllLiveSportsLinks.myftp.org:80/hls/select2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",ArenaSports1(dec=auto)
 http://46.29.169.15:4001/play/a002/index.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",ArenaSports3(dec=auto)
@@ -1674,7 +1674,7 @@ http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th?id=OIF.ToesmPjtr5JU3THZP89S9A&pid=Api&P=0&w=169&h=169" group-title="TV ENTERTAIN",Samurai
 http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", DONASI DANA 0812-3539-3956
-https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Slm7FkzL6rgK9q8ZZUQrYAAAAA&pid=Api&P=0&w=203&h=203" group-title="TV ENTERTAIN",Box Film
@@ -1691,7 +1691,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="TV ENTERTAIN", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1737,7 +1737,7 @@ http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3vJZZTA" group-title="TV ENTERTAIN", IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV MUSIC", DONASI DANA 0812-3539-3956
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1  tvg-id="maleo.id" group-title="TV MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO TV
 https://bravo.kugo.id/maleo/udp.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtnQfMfil88K3vCUkibIm6oHoL6Sw3yCeP6ikwPM0maj6Ux9qkoCqkOJOOA1ISdubnGanGbwaVmBOmwMWneNIi5LF_YLYd8SP17isfZxDsIu8KHFHHnQDh449OQfOw4Je_55suFMlvSlmZ_Vf7gzD2Z70oYfqt572CKBOfKBfIvP2HoEEwEPMxN5o9" group-title="TV MUSIC", Citra  Dangdut
@@ -1759,7 +1759,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="TV MUSIC", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA",SuKan Rtm
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -1802,7 +1802,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="ASTRO MALAYSIA",TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI DANA 0812-3539-3956 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 501 AU
 http://iptv12k.com:35461/8022022301/468985/3391
 #EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 502 AU
