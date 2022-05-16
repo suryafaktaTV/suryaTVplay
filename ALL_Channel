@@ -356,13 +356,9 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 group-title="TV BERITA",CNA
 http://rr.dens.tv/h/h29/index.m3u8
 
-#EXTINF:-1 group-title="TV BERITA", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 
 ========================================================TV DAERAH================================================
 
-#EXTINF:-1 group-title="TV DAERAH", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -445,13 +441,8 @@ https://re1.siar.us/madutv/hd720/chunks.m3u8?nimblesessionid=156496
 https://v2.siar.us/bmstv/livestream/chunks.m3u8?nimblesessionid=129368
 #EXTINF:-1 group-title="TV DAERAH", SULTRA TV
 http://122.248.43.138:1935/ch20/myStream/chunklist_w1764560145.m3u8
-#EXTINF:-1 group-title="TV DAERAH", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 
 ========================================================RELIGI================================================
-
-#EXTINF:-1 group-title="RELIGI", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgaGCW5YBR-B0iRd7xLk3Oc2_L9NG2juZ_D07jSRUXoqHMfmsXhEaj1b6AIu7sBgiH1rQLKAv5ty1t907ZFayTOrbiYKrBNObjss3sbrylv9AcWCg8Ps52G-9H_RZZ7m07QgrB-qd_A-1O69GND4R3Jqmdscsr2KNYUvk13CjDb3pBOB7UA-zvgwMbY=s320" group-title="RELIGI", Citra Muslim
 https://akumaymd.000webhostapp.com/master-9.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -566,13 +557,9 @@ https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
 #EXTINF:-116 group-title="RELIGI" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 group-title="RELIGI", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/pj053gi8326oeqd/halakkitach.ts
 
 
 ========================================================DENSTV================================================
-#EXTINF:0 tvg-id="ext" group-title="DENS.TV", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 group-title="DENS.TV",Aljazeera Channel
 http://rr2.dens.tv/s/s16/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Aljazeera English
@@ -651,8 +638,6 @@ http://rr.dens.tv/h/h151/index2.m3u8
 http://rr3.dens.tv/s/s36/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",Metro TV
 http://rr.dens.tv/h/h12/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DENS.TV", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 group-title="DENS.TV",Motorvision
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",My Cinema
@@ -745,8 +730,6 @@ http://rr2.dens.tv/s/s32/index.m3u8
 https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 ====++++++++++++++++=======+++++++++++++++++Kids============+++++++++++
 
-#EXTINF:0 tvg-id="ext" group-title="KIDS", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-id="550" tvg-name="Dreamwork" tvg-logo="http://mantul.biz.id:8888/images/86350332ec8f9d8247616da6689366f3.png" group-title="KIDS",Dreamwork
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="550" tvg-name="Dreamwork" tvg-logo="http://mantul.biz.id:8888/images/86350332ec8f9d8247616da6689366f3.png" group-title="KIDS",Dreamwork USEETV
@@ -831,8 +814,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 
 =====++++++++++++++++++++++++++++++++++++++++Knowledge=++++++++++==+++=+
-#EXTINF:0 tvg-id="ext" group-title="KNOWLEDGE", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="afc" tvg-logo="https://i.postimg.cc/wBXjLmkQ/logo-afc-big.png" group-title="KNOWLEDGE",A.F.N 
@@ -927,8 +908,6 @@ https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nR
 
 <----------------------------------- Lifestyle --------------------------------------->
 
-#EXTINF:0 tvg-id="ext" group-title="TV LIFESTYLE", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/hgtv.png" group-title="TV LIFESTYLE",HGTV
@@ -975,8 +954,6 @@ http://rr1.dens.tv/h/h28/01.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="TV LIFESTYLE" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2021-09/Logo%20Style%20HD%20BLANC.png",TV5 Monde Style
 http://rr1.dens.tv/h/h01/01.m3u8
-#EXTINF:0 tvg-id="ext", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
@@ -1064,8 +1041,6 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT", TENNIS TV
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="" group-title="TV SPORT", @halakkitach 1
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="" group-title="TV SPORT",LFC TV BACKUP
@@ -1120,8 +1095,6 @@ http://iptv12k.com:35461/8022022301/468985/969
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT", Astro Supersport 5 HD
 http://iptv12k.com:35461/8022022301/468985/968
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",|UK| BT Sport 1 HD
 http://00322.xyz:8000/pevi59/NTX13FE/144818
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",|UK| BT Sport 2 HD
@@ -1254,9 +1227,7 @@ http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgK18NRELlx1wf3frIQvpiU/ts
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpEBGijFwz1gXCitXbsGlVQ/ts
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",ES: DAZN F1 FHD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/2230
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
-#EXTINF:-1 tvg-id="ext" group-title="TV SPORT",|DSTV| SuperSport PSL
+##EXTINF:-1 tvg-id="ext" group-title="TV SPORT",|DSTV| SuperSport PSL
 http://red.ipfox.org:8080/osama2022/osama2023/2970
 #EXTINF:-1 tvg-id="ext" group-title="TV SPORT",|DSTV| SuperSport Golf
 http://red.ipfox.org:8080/osama2022/osama2023/25495
@@ -1416,8 +1387,6 @@ http://new-pro.tv:8080/Fernando/123321/33694
 http://new-pro.tv:8080/Fernando/123321/219144
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",Bein Sports English 3 FHD
 http://new-pro.tv:8080/Fernando/123321/33693
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 2
@@ -1441,9 +1410,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 group-title="TV SPORT", EDGE SPORT
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 group-title="TV SPORT", FIGHTBOX
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",Sony_Six._HD 
 http://AllLiveSportsLinks.myftp.org:80/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",Sony_Ten._1
@@ -1460,8 +1427,6 @@ http://AllLiveSportsLinks.myftp.org:80/hls/starsports2.m3u8
 http://AllLiveSportsLinks.myftp.org:80/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",StarSports_Select_2.HD 
 http://AllLiveSportsLinks.myftp.org:80/hls/select2.m3u8
-#EXTINF:-1 group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="TEST"group-title="TV SPORT",ArenaSports1(dec=auto)
@@ -1496,8 +1461,6 @@ http://red.ipfox.org:8080/osama2022/osama2023/31765
 http://red.ipfox.org:8080/osama2022/osama2023/31764
 #EXTINF:-1 group-title="TV SPORT",CA: TSN 5 | HD
 http://red.ipfox.org:8080/osama2022/osama2023/31763
-#EXTINF:-1 group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",FR RMC SPORT 1 FHD
 http://ultimateiptv.me:8080/Mahdi123/Mahdi1234/6514
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",FR: RMC SPORT 2 FHD
@@ -1520,8 +1483,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1 group-title="TV SPORT",PT:  ELEVEN SPORTS 1 HD
 http://ultimateiptv.me:8080/Mahdi123/Mahdi1234/6510
 #EXTINF:-1 group-title="TV SPORT",PT:  ELEVEN SPORTS 2 HD
@@ -1536,10 +1497,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="TV SPORT", SWISS SPORT TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1 group-title="TV SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
-#EXTINF:0 tvg-id="ext" group-title="TV ENTERTAIN", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
+
 #EXTINF:-1 tvg-logo="TEST" group-title="TV ENTERTAIN", MCA
 http://210.210.129.106/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_citradrama_small.png?v=2.0.0.15",Citra Drama
@@ -1710,8 +1668,6 @@ http://rr.dens.tv/h/h22/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://bit.ly/3vJZZTA" group-title="TV ENTERTAIN", IMC
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 group-title="TV ENTERTAIN", PLAYLIST INI MILIK @halakkitach 
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:0 tvg-id="ext" group-title="TV MUSIC", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:-1  tvg-id="maleo.id" group-title="TV MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO TV
@@ -1734,8 +1690,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="TV MUSIC", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="TV MUSIC", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
 #EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:0 tvg-id="ext" group-title="ASTRO MALAYSIA",SuKan Rtm
@@ -1807,5 +1761,3 @@ http://stariptv.org:8080/live/basma2022/123456/163782.ts
 http://iptv12k.com:35461/8022022301/468985/3382
 #EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", ESPN 2 AU
 http://iptv12k.com:35461/8022022301/468985/3381
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", PLAYLIST INI MILIK @halakkitach
-https://dl.dropboxusercontent.com/s/z40mizbjhe75usn/infohalakkitach.ts
