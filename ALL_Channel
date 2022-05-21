@@ -1,5 +1,8 @@
 #EXTM3U
 
+﻿#EXTINF:-1 group-title="info",JERMAN CUP
+https://drive.google.com/uc?id=19Ey7-AaeydBoiwM873h3ZExzasZ4Gvxv
+
 ﻿#EXTINF:-1 group-title="ALL-SPORT",FR: BeIN Sports 1 FHD
 http://new-pro.tv:8080/arabicoly/gsvdvsuuwgrvtvhr/70673
 #EXTINF:-1 group-title="ALL-SPORT",FR: BeIN Sports 1 HD
