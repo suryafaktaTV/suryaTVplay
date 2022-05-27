@@ -1178,23 +1178,23 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="ANAK",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 group-title="vision+",RCTI 
+#EXTINF:-1 group-title="LOKAL",RCTI 
 https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="vision+",GTV 
+#EXTINF:-1 group-title="vis",GTV 
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 group-title="vision+",MNCTV HD 
+#EXTINF:-1 group-title="LOKAL",MNCTV HD 
 https://on-load.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 group-title="vision+",SCTV HD 
+#EXTINF:-1 group-title="LOKAL",SCTV HD 
 https://on-load.mncnow.id/live/eds/SCTV-HD/sa_dash_vmx/SCTV-HD.mpd
-#EXTINF:-1 group-title="vision+",ANTV HD 
-https://on-load.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 group-title="vision+",INDOSIAR HD 
+#EXTINF:-1 group-title="LOKAL",ANTV HD 
+http://210.210.155.35/session/68e8401a-dd6f-11ec-8b8d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR HD 
 https://on-load.mncnow.id/live/eds/INDOSIAR-HD/sa_dash_vmx/INDOSIAR-HD.mpd
-#EXTINF:-1 group-title="vision+",TRANSTV HD 
+#EXTINF:-1 group-title="LOKAL",TRANSTV HD 
 https://on-load.mncnow.id/live/eds/TRANSTV-HD/sa_dash_vmx/TRANSTV-HD.mpd
-#EXTINF:-1 group-title="vision+",TRANS7 HD 
+#EXTINF:-1 group-title="LOKAL",TRANS7 HD 
 https://on-load.mncnow.id/live/eds/TRANS7-HD/sa_dash_vmx/TRANS7-HD.mpd
-#EXTINF:-1 group-title="vision+",NET TV HD 
+#EXTINF:-1 group-title="LOKAL",NET TV HD 
 https://on-load.mncnow.id/live/eds/NET-HD/sa_dash_vmx/NET-HD.mpd
 
 #EXTINF:-1 group-title="suryaTV",BANTU_sawer 081235393956
