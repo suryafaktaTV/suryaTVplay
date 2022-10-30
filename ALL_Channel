@@ -1,9 +1,5 @@
-#EXTM3U
-
-﻿#EXTINF:-1,beIN Sport 01
-htt
-______
-
+#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="VOD 2021",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="" group-title="FINAL DESTINATION", Final Destination 1 (2000) 
