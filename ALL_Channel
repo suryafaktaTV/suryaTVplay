@@ -2167,31 +2167,65 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="ASTRO MALAYSIA",TV ALHIJRAH
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="ASTRO MALAYSIA",TV OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI DANA 0812-3539-3956 
-https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 501 AU
-http://iptv12k.com:35461/8022022301/468985/3391
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 502 AU
-http://iptv12k.com:35461/8022022301/468985/3390
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 503 AU
-http://iptv12k.com:35461/8022022301/468985/3389
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 504 AU
-http://iptv12k.com:35461/8022022301/468985/3388
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 505 AU
-http://iptv12k.com:35461/8022022301/468985/3387
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 506 AU
-http://iptv12k.com:35461/8022022301/468985/3386
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", Fox Sports 507 AU
-http://iptv12k.com:35461/8022022301/468985/3385
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT",AU- BEIN SPORTS 1
-http://stariptv.org:8080/live/basma2022/123456/163778.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT",AU- BEIN SPORTS 2
-http://stariptv.org:8080/live/basma2022/123456/163780.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT",AU- BEIN SPORTS 3
-http://stariptv.org:8080/live/basma2022/123456/163782.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", ESPN 1 AU
-http://iptv12k.com:35461/8022022301/468985/3382
-#EXTINF:-1 tvg-logo="TEST" group-title="AUSTRALIA SPORT", ESPN 2 AU
-http://iptv12k.com:35461/8022022301/468985/3381
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 1
+https://ad2017.openhd.lol/lb/eplayerfs1/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 2
+https://ad2017.openhd.lol/lb/eplayerTSN_1_HD/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 3
+https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://techclips.net/
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 4
+https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
+
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 5
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 6
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master.m3u8
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 7
+
+//https://cdn4.reels2watch.com/hls/s1.m3u8|Referer=https://techclips.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer=https://cliptv.vn/
+
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 8
+
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 9
+https://griomreavigremant654.s3.amazonaws.com/redzone.m3u8
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 10
+
+https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669173931-0-0-236dea16e5079f72c1b2d51d6af82c63
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 11
+https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669172551-0-0-1da16b4750984e90fe9baa7c8ecff935
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 16
+https://griomreavigremant654.s3.amazonaws.com/redzone2_720p30.m3u8
+
+#EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 17
+https://stream.dlivecdn.com/dlive/transcode-77-7/mesasucia/1669241017/src/live.m3u8
