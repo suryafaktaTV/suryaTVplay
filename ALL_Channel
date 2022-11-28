@@ -1593,3 +1593,6 @@ https://griomreavigremant654.s3.amazonaws.com/redzone2_720p30.m3u8
 
 #EXTINF:0 group-title="QTR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",CHNL 17
 https://stream.dlivecdn.com/dlive/transcode-77-7/mesasucia/1669241017/src/live.m3u8
+
+#EXTINF:0 group-title="live QATAR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",LIVE BOLA
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
