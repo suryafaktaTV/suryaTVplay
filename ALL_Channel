@@ -1596,3 +1596,561 @@ https://stream.dlivecdn.com/dlive/transcode-77-7/mesasucia/1669241017/src/live.m
 
 #EXTINF:0 group-title="live QATAR" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png",LIVE BOLA
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
+
+#EXTM3U x-tvg-url="https://macan.network/epgtv.xml" url-tvg="https://macan.network/epgtv.xml"
+
+
+=============================================================================================
+PIALA PRESIDEN
+===============
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/343436/piala_presiden_2022-169.jpg?w=750&h=423" group-title="PIALA PRESIDEN",FINAL
+
+
+
+
+
+//VOLLY
+
+#EXTINF:-1 tvg-logo="https://thephrase.id/wp-content/uploads/2021/12/Proliga-PP-PBVSI.jpg" group-title="PRO LIGA",THE FINALS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+
+#EXTINF:-1 tvg-logo="https://www.errea.com/media/wysiwyg/Logo-VNL.png" group-title="BOLA VOLY",LIVE MATCH
+https://etslive-2-vidio-com.akamaized.net/exp=1655835875~acl=/hls-p/ingest_7785_*/*~hmac=44abe1402aaab9d3089d73fe82c3a5d72d16f450058c5872eda369ca84d0bd70/hls-p/ingest_7785_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FRIENDLY",MU VS ATM
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="FRIENDLY",ARSENAL VS SEV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="VNL",LIVE STREAMING
+
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/335393/logo_bwf_1-169.jpg?w=750&h=423" group-title="BADMINTON",LIVE (SPO TV)
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1650806483~exp=9007200905547474~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=7535d70fdbc9bcec34b7471e1749fb4d1077b56795a57135bb10b3f9406c77f9
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/335393/logo_bwf_1-169.jpg?w=750&h=423" group-title="TESTES",TESTES
+https://edge-vod04-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/335393/logo_bwf_1-169.jpg?w=750&h=423" group-title="BADMINTON",LIVE (MNC TV)
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/335393/logo_bwf_1-169.jpg?w=750&h=423" group-title="BADMINTON",LIVE (iNEWS)
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+
+
+
+///SPOTV
+#EXTINF:-1 tvg-logo="https://www.ngopibareng.id/images/uploads/2022/2022-01-10/dua-tugas-berat-yamaha-jelang-motogp-musim-2022--thumbnail-850" group-title="MOTO GP & SBK",SPO TV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1650806483~exp=9007200905547474~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=7535d70fdbc9bcec34b7471e1749fb4d1077b56795a57135bb10b3f9406c77f9
+
+#EXTINF:-1 tvg-logo="https://www.ngopibareng.id/images/uploads/2022/2022-01-10/dua-tugas-berat-yamaha-jelang-motogp-musim-2022--thumbnail-850" group-title="MOTO GP & SBK",WSBK
+
+https://sin1.contabostorage.com/e99f730d90ed4c3b86ca4c972d026f37:cast/hls/2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ngopibareng.id/images/uploads/2022/2022-01-10/dua-tugas-berat-yamaha-jelang-motogp-musim-2022--thumbnail-850" group-title="MOTO GP & SBK",MOTO GP BELANDA
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="FUTSAL",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+
+//ONE
+#EXTINF:-1 tvg-logo="" group-title="MABAR",IEL UNIVERSITY
+
+
+#EXTINF:-1 tvg-logo="https://bolaskor.com/media/00/1c/9d/001c9d34aef9abb1682363afb26e1d5f.jpg" group-title="IBL",LIVE MATCH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+
+
+===============================================================================================
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="LIGA RAKYAT",AKUN VIDIO MURAH
+//http://dipoenglish.net/75k.mp4
+
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA",Okey Channel (MY)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA",RTM SUKAN (MY)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+
+
+
+
+
+===============================================================================================
+//MABAR
+
+#EXTINF:-1 tvg-logo="https://img.esportsku.com/wp-content/uploads//2020/08/logo-baru-mobile-legends-ml.jpg" group-title="MABAR",PUBG MOBILE FINAL DAY
+
+
+//https://api.mbed.cc/ytlive.m3u8?id=F8wVK8MsznQ
+
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA", 03
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA", 01
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA", 04
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052842/1052842_720.jpg" group-title="MALAYSIA", 05
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Techstorm-logo.jpg" group-title="MABAR",TECHSTORM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.komite.id/wp-content/uploads/2020/06/logo_dunia_games.jpg" group-title="MABAR",DUNIA GAMES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50056951f6d5f5fbaf286cd99c965379&key=4ec78e3b7d66d1db3815a127f792b604
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+
+
+
+
+===============================================================================================
+
+
+==================================================================
+
+
+===========================================================================================
+
+//BEININDONESIA
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="BEIN SPORTS",BEIN SPORTS 1 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2013/07/03/82/bein_sport_logo.jpg?w=700&q=90" group-title="BEIN SPORTS",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+
+
+===========================================================================================
+
+
+===========================================================================================
+
+
+
+//ASTRO
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO SPORTS",ASTRO ARENA
+//http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO SPORTS",ASTRO ARENA 2
+http://178.128.107.149:5080/WebRTCApp/streams/arena2.m3u8
+//http://iptv.tvmalaysia.cc:80/penang175/penang175/9028
+
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORTS",Astro SuperSport 1 HD
+//http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8416
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/9024
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium123/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORTS",Astro SuperSport 2 HD
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium124/chunks.m3u8
+//http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8417
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/9025
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",Astro SuperSport 3 HD
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/6711
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium125/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",Astro SuperSport 3 HD
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/9020
+
+//http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8418
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORTS",Astro SuperSport 4 HD
+//http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8419
+//http://iptv.tvmalaysia.cc:80/penang189/penang189/9026
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium126/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORTS",Astro SuperSport 5 HD
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium43/chunks.m3u8
+//https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium127/chunks.m3u8
+
+
+
+--------------------------------------
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="ASTRO SPORTS", Astro supersports
+//http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASTRO SPORTS",Astro supersports 2
+//http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="ASTRO SPORTS",Astro supersports 3
+//http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASTRO SPORTS",Astro Supersports 4
+//http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+
+
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="ASTRO SPORTS",Astro SuperSport 5
+//http://194.233.78.49:2082/DurianTv/EbnZTI6oI8/8649
+//http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8649.ts
+
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="ASTRO SPORTS",RTM SUKAN
+//http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="UNIFY",UNIFY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+//https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="MOTO GP",SPO TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="MOTO GP",LIVE ONLY
+
+
+
+===========================================================================================
+
+===========================================================================================
+//RAKYAT
+================
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA RAKYAT",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA RAKYAT",LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA RAKYAT",LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+//https://six.zqprem.com/enco/1/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA RAKYAT",LIVE 1
+//https://tvnid.wapgem.com/vidio/master-1.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA RAKYAT",LIVE MATCH
+
+
+
+
+===========================================================================================
+
+
+
+===========================================================================================
+
+
+//LIVE EVENTS
+#EXTINF:0 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE F1
+//https://etus.link/nba2
+
+#EXTINF:0 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 0
+https://live-ak.vimeocdn.com/exp=1649516521~acl=%2F79650e6f-45f0-4a79-88e7-e3b5ba28beba%2F%2A~hmac=18aae77cfa51f67cfe71fcc6b1aeec3b458d7430624c5fa4cfe790bddd997e59/79650e6f-45f0-4a79-88e7-e3b5ba28beba/chunklist_b3256000.m3u8?max_segments=10
+
+#EXTINF:0 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 1
+http://172.104.158.153/live/abr_s-1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 2
+//http://45.134.21.199/hls/S2.m3u8
+//https://cdn.livepeer.com/hls/50feew6iiffy3l9p/0_1/index.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 3
+
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 4
+
+//http://45.148.26.176/hls/M2.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 5
+
+http://init.cheches.info/hls/104.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 6
+
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 7
+
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 8
+
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+
+//http://185.53.89.183/hls/bt1.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 9
+https://sl24.varcdn1.ru/m1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20190307/ourlarge/pngtree-soccer-club-logo-vector-template-design-illustration-png-image_780773.jpg" group-title="LIVE EVENT",LIVE 10
+https://sl24.varcdn1.ru/m2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="REDBULL",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+===========================================================================================
+
+
+===========================================================================================
+
+
+===========================================================================================
+
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="BT SPORTS",BT Sport 1
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium31/chunks.m3u8
+
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="BT SPORTS",BT Sport 2
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium32/chunks.m3u8
+
+	
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="BT SPORTS",BT Sport 3 
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium33/chunks.m3u8
+===========================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZGBTWJ4/Sony-Ten-1-HD.jpg" group-title="SONY TEN",Sony Ten 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2WdBhj4/Sony-Ten-2-HD.jpg" group-title="SONY TEN",Sony Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Tqp58t7/ST3HD.png" group-title="SONY TEN",Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/h1Y5KVC/Sony-Six-old.jpg" group-title="SONY TEN",Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+
+===========================================================================================
+
+
+===========================================================================================
+
+
+=============================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/TSN1_CMYK-2.jpg" group-title="TSN SPORTS",TSN
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8969
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/TSN1_CMYK-2.jpg" group-title="TSN SPORTS",TSN 1
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8923
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/tsn_2_ca_hd.png" group-title="TSN SPORTS",TSN 2
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8924
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="TSN SPORTS",TSN 3
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8925
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="TSN SPORTS",TSN 4
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8926
+
+
+
+===============================================================================================
+#EXTINF:-1 tvg-id="ss.action.za" tvg-name="SuperSport: Action" tvg-logo="http://myportal.live:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="SuperSport",SuperSport: Action
+
+#EXTINF:-1 tvg-id="ss.blitz.za" tvg-name="SuperSport: Blitz" tvg-logo="http://myportal.live:8080/images/a9aa9d78e625109ce72fb5d020d5f36e.png" group-title="SuperSport",SuperSport: Blitz
+
+#EXTINF:-1 tvg-id="ss.cricket.za" tvg-name="SuperSport: Cricket" tvg-logo="http://myportal.live:8080/images/e2182f27c94adc78e9deecc1da385a34.png" group-title="SuperSport",SuperSport: Cricket
+
+#EXTINF:-1 tvg-id="ss.football.za" tvg-name="SuperSport: Football" tvg-logo="http://myportal.live:8080/images/305c9bef1a6761c0360a0f8511250019.png" group-title="SuperSport",SuperSport: Football
+
+#EXTINF:-1 tvg-id="ss.golf.za" tvg-name="SuperSport: Golf" tvg-logo="http://myportal.live:8080/images/80a2c666372b20c354d993c34c47dd7d.png" group-title="SuperSport",SuperSport: Golf
+
+#EXTINF:-1 tvg-id="ss.grandstand.za" tvg-name="SuperSport: Grandstand" tvg-logo="http://myportal.live:8080/images/755c11e468ee6ceea9c75cefc57795f0.png" group-title="SuperSport",SuperSport: Grandstand
+
+#EXTINF:-1 tvg-id="ss.la.liga.za" tvg-name="SuperSport: La Liga" tvg-logo="http://myportal.live:8080/images/e996ff53b8a7a389d89815aa51910b01.png" group-title="SuperSport",SuperSport: La Liga
+
+#EXTINF:-1 tvg-id="ss.maximo.1.za" tvg-name="SuperSport: Maximo" tvg-logo="http://myportal.live:8080/images/550273e6768807104303c6177069602e.png" group-title="SuperSport",SuperSport: Maximo
+
+#EXTINF:-1 tvg-id="ss.motorsport.za" tvg-name="SuperSport: Motorsport" tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png" group-title="SuperSport",SuperSport: Motorsport
+
+#EXTINF:-1 tvg-id="ss.psl.za" tvg-name="SuperSport: P.S.L" tvg-logo="http://myportal.live:8080/images/7d0e54451f97e86ee9f4837712406310.png" group-title="SuperSport",SuperSport: P.S.L
+
+#EXTINF:-1 tvg-id="supersport.play.za" tvg-name="SuperSport: Play" tvg-logo="http://myportal.live:8080/images/52aba001e3afa48d622aadcf056341b4.png" group-title="SuperSport",SuperSport: Play
+
+#EXTINF:-1 tvg-id="ss.premier.league.za" tvg-name="SuperSport: Premier League" tvg-logo="http://myportal.live:8080/images/8bf93cf8ef05a3008b28f0729c79566b.png" group-title="SuperSport",SuperSport: Premier League
+
+#EXTINF:-1 tvg-id="ss.rugby.za" tvg-name="SuperSport: Rugby" tvg-logo="http://myportal.live:8080/images/a2843624bcdb705b82d97a13d862e238.png" group-title="SuperSport",SuperSport: Rugby
+
+#EXTINF:-1 tvg-id="ss.tennis.za" tvg-name="SuperSport: Tennis" tvg-logo="http://myportal.live:8080/images/410b173025e30bc51d6b42b8081c7c22.png" group-title="SuperSport",SuperSport: Tennis
+
+=========================
+ZIGGO
+=========================
+#EXTINF:-1 tvg-logo="https://www.totaaltv.nl/content/images/basispakket-triple-play-ziggo-nu-met-40-mbps-internet.jpg" group-title="ZIGGO",ZIGGO SELECT
+
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium393/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.totaaltv.nl/content/images/basispakket-triple-play-ziggo-nu-met-40-mbps-internet.jpg" group-title="ZIGGO",ZIGGO RACING
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium396/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.totaaltv.nl/content/images/basispakket-triple-play-ziggo-nu-met-40-mbps-internet.jpg" group-title="ZIGGO",ZIGGO VOETBAL
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium398/chunks.m3u8
+
+===============
+DAZN
+===============
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/640px-DAZN_logo.svg.png" group-title="DAZN",DAZN
+https://olacast.bypass.nontonbola.my.id/https://netwrk.ru.com/cdn/premium426/chunks.m3u8
+
+===================
+LOCAL
+====================
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="LOCAL",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="LOCAL",RCTI
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="LOCAL",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="LOCAL",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="LOCAL",iNewsTV
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="LOCAL",Trans 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="LOCAL",Trans TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="LOCAL",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="LOCAL",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="LOCAL",TVONE
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="LOCAL",DAAI TV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="LOCAL",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="LOCAL",JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="LOCAL",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title="LOCAL",TVRI
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="LOCAL",Metro TV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png" group-title="LOCAL",Kompas TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="LOCAL",Berita Satu
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" group-title="LOCAL",BandungTV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://p0.sgpstatp.com/origin/005e3cfae85780254e39" group-title="LOCAL",TVRI SPORT
+https://play.mautube.xyz/playlist.m3u8?data=WVA1bVRwQzFaYXJlckFtSU1wTm1YeTk1MjJoM2xJaFdSOUY1M3BxSGJDQlkzK0NFWUZ1Y3ZQaHQvanhySm5NQUdjVkhqcXJOcnMza2dla0p4Z0o0bHc9PTo6XkmSd%2FE8ORz3%2BWQQ3l%2B0QQ%3D%3D&url=WmIzSk54MEpnb0JJRlEwYVlqVVVEcmM4S0NSdThRa1lYRUdZY0lqM3pPZzBuaEdNZnhUVjIxMXZad3BPZEhLNXErNUtKTVV2UjNhandESlJwbHNKeDRJSEJvbElwRWZBQ2k0d2VJVmhKOTQ9OjoKW7Muz5gCtfQjTtRNX%2F40&token=NzZmQStUVkU3L0NyQmpqRE5iVFV1OFRuWS9jNzNhZGJuYlBGRUJ6RGtDcFZYTFZnTHZsbi9DTGxCbmxMQkhqYjo6IiZZQHbqqtOPmzB826%2B%2FAw%3D%3D&live=false
