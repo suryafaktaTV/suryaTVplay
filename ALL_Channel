@@ -1,244 +1,5 @@
 #EXTM3U
 
-AFF 2022
-============================
-
-#EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",RCTI
-https://rcti-linier.rctiplus.id/RCTI2022.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36&Referer=https://www.rctiplus.com/tv/mnctv
-
-#EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
-
-============================
-LIGA 1
-============================
-#EXTINF:0 group-title="LIGA 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png?w=700&q=90",LIVE ONLY
-
-
-
-============================
-NATIONAL & LOCAL
-============================
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI NASIONAL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI WORLD
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RCTI
-https://rcti-linier.rctiplus.id/RCTI2022.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36&Referer=https://www.rctiplus.com/tv/mnctv
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MNC TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",Metro TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NET TV
-http://210.210.155.37/session/0f29501a-7bca-11ed-99fb-c81f66f89318/uq2663/h/h06/01.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNN INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/session/1dd6fe42-789a-11ed-8981-c81f66f89318/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/session/3a5171a6-789a-11ed-8981-c81f66f89318/qwr9ew/s/s07/01.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-
-
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",KOMPAS TV
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NUSANTARA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RRI NET
-https://rrinet.rritmb.com/hls/live.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ELSHINTA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/session/4a6d7b5c-789a-11ed-8981-c81f66f89318/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAWA POST TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",IDX CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GARUDA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",FTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DIGI ONE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAX 2 U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S LIFESTYLE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.37/session/ad5d0bb0-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s65/S4/mnf.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
-
-
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BALI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",SURABAYA TV
-https://v3.siar.us/surabayatv/live/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MADU TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.37/session/7f3df3e8-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s13/S4/mnf.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANTEN TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",V CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/session/f49e5746-7899-11ed-a06a-c81f66f89318/x6bnqe/s/s73/S4/mnf.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BBS TV
-http://103.119.54.246:8080/hls/bbstv.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JURNAL TV
-https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
-
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",HUMA BETANG TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DUTA TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
-
-
-==========================
-RELIGION
-==========================
-
-#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV MU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tvmu.siar.us/tvmu/live/playlist.m3u8
-
-#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MUSLIM TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://av-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",INSPIRA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BADAR TV
-https://e1.siar.us/badartv/live/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/rcti.png" group-title="Lokal",RCTI
@@ -1676,6 +1437,246 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ/live/407384_7/chunklist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match.footbal.
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+
+AFF 2022
+============================
+
+#EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",RCTI
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36&Referer=https://www.rctiplus.com/tv/mnctv
+
+#EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
+
+============================
+LIGA 1
+============================
+#EXTINF:0 group-title="LIGA 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png?w=700&q=90",LIVE ONLY
+
+
+
+============================
+NATIONAL & LOCAL
+============================
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI WORLD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RCTI
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36&Referer=https://www.rctiplus.com/tv/mnctv
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NET TV
+http://210.210.155.37/session/0f29501a-7bca-11ed-99fb-c81f66f89318/uq2663/h/h06/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/1dd6fe42-789a-11ed-8981-c81f66f89318/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/3a5171a6-789a-11ed-8981-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",KOMPAS TV
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RRI NET
+https://rrinet.rritmb.com/hls/live.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ELSHINTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/4a6d7b5c-789a-11ed-8981-c81f66f89318/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAWA POST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",IDX CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",FTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DIGI ONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAX 2 U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/session/ad5d0bb0-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s65/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
+
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BALI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",SURABAYA TV
+https://v3.siar.us/surabayatv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/session/7f3df3e8-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s13/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",V CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/f49e5746-7899-11ed-a06a-c81f66f89318/x6bnqe/s/s73/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JURNAL TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",HUMA BETANG TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+
+
+==========================
+RELIGION
+==========================
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV MU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MUSLIM TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://av-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",INSPIRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 
 NEWS
