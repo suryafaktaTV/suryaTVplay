@@ -100,15 +100,11 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/bs.png" group-title="Lokal🇮🇩",Berita Satu
 https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="Lokal🇮🇩",INDOSIAR
 http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/161
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="Lokal🇮🇩",INDOSIAR 2
-http://live.ezrtv.my.id:25461/live/mantanganteng/duluganteng/304
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/304
 
 #EXTINF:-1 tvg-logo="https://img.ksa.my.id/dutatv.png" group-title="Lokal🇮🇩", dutatv
 https://o1.siar.us/dutatv/live/chunks.m3u8
