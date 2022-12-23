@@ -104,7 +104,7 @@ https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/161
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="Lokal🇮🇩",INDOSIAR 2
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/304
+https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
 
 #EXTINF:-1 tvg-logo="https://img.ksa.my.id/dutatv.png" group-title="Lokal🇮🇩", dutatv
 https://o1.siar.us/dutatv/live/chunks.m3u8
