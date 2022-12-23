@@ -100,6 +100,12 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/bs.png" group-title="Lokal🇮🇩",Berita Satu
 https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Lokal🇮🇩",SCTV(dens)
+http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Lokal🇮🇩", SCTV(vidio)
+https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="Lokal🇮🇩",INDOSIAR
 http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/161
 
