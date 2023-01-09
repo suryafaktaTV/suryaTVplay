@@ -1455,16 +1455,20 @@ https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match.footbal.
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
-
-AFF 2022
-============================
-
 #EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",RCTI
-https://rcti-linier.rctiplus.id/RCTI2022.m3u8?|User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36&Referer=https://www.rctiplus.com/tv/mnctv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://h-rcti.rctiplus.id/RCTI2022.m3u8?|Referer=https://www.rctiplus.com/tv/rcti
+
+
 
 #EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
+https://d-inews.rctiplus.id/INEWS2022.m3u8?|Referer=https://www.rctiplus.com/
+
+#EXTINF:0 group-title="AFF 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d2/AFF_Mitsubishi_Electric_Cup_2022_logo.svg/250px-AFF_Mitsubishi_Electric_Cup_2022_logo.svg.png",THAILAND VS CAMBODIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+
 
 ============================
 LIGA 1
