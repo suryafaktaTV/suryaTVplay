@@ -10,7 +10,7 @@ Keep free
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/rcti.png" group-title="Lokal",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/rcti.png" group-title="Lokal",RCTI 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/rcti.png" group-title="Lokal",RCTI 2
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,7 +18,7 @@ https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indo
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/gtv.png" group-title="Lokal",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/gtv.png" group-title="Lokal",GTV 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/gtv.png" group-title="Lokal",GTV 2
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -26,7 +26,7 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/mnctv.png" group-title="Lokal",MNCTV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/mnctv.png" group-title="Lokal",MNCTV 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/mnctv.png" group-title="Lokal",MNCTV 2
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,7 +39,7 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/antv.png" group-title="Lokal",ANTV
 https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/antv.png" group-title="Lokal",ANTV 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.ksa.my.id/antv.png" group-title="Lokal",ANTV 2
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
