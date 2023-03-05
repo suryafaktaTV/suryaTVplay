@@ -1,4 +1,1016 @@
+View Source · About · Changelog
+URL:
+http://9goal.xtgem.com
+
+Fetched 61.53 KB in 0.327453 seconds
+Don’t wrap lines · Tidy markup
+
+<script type="text/javascript">
+                                            var cookies = ( "cookie" in document && ( document.cookie.length > 0 || (document.cookie = "test").indexOf.call(document.cookie, "test") > -1) );
+                                            if ( cookies ) {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//enif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//enim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            } else {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//disif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//disim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            }
+                                          </script>
+                                          <noscript><iframe src="//nojsif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//nojsim.images.xtstatic.com/tp.gif" alt="" /></iframe></noscript>
+                                          <iframe src="//cif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//cim.images.xtstatic.com/tp.gif" alt="" /></iframe><head>
+  <meta http-equiv='refresh' content='0; URL=https://saweria.co/markasdigital'>
+</head>
+
+
+<a> <img src="https://t4.ftcdn.net/jpg/02/13/14/73/360_F_213147396_DpxX02P3qAgDu593i8IRf3UO7RzFs7Hw.jpg"/></a>
+
+#EXTINF:-1 tvg-logo="" group-title="INFO",Paylist Compiled By Markas Digital
+
+
+<head>
+  <meta http-equiv='refresh' content='0; URL=https://saweria.co/markasdigital'>
+</head>
+
+
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" OFF
-https://drive.google.com/uc?id=1yC35O49p-KUtFkP_w7nzlZ361R3ChRdo
+#EXTM3U url-tvg="https://epg.stavol.xyz/all.xml"
+
+============================
+AFF 2022
+============================
+
+
+============================
+BADMINTON 2023
+============================
+#EXTINF:0 group-title="BADMINTON" tvg-logo="https://asset.indosport.com/article/image/q/80/325294/logo_bwf_2-169.jpg",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1676776371-6da219a7863717017cfb9db0ead26f5b-0-3cfceb2633745d0cafa7b782aab3e720
+
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://asset.indosport.com/article/image/q/80/325294/logo_bwf_2-169.jpg",EUROSPORT
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/6be363fc-6d45-4b74-8a0b-16d525dc87e7/3.m3u8
+
+
+
+
+============================
+LIGA 1
+============================
+#EXTINF:0 group-title="LIGA 1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png?w=700&q=90",LIVE ONLY
+
+
+
+
+============================
+FOOTBALL
+============================
+
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://techclips.net/2022/s1
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/2022/s2/
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/2022/s3/
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://techclips.net/2022/s4/
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn4.reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/2022/s5/
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn4.reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/2022/s6/
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn4.reels2watch.com/hls/s7.m3u8?|Referer=https://techclips.net/2022/s7/
+
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE ONLY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/zS5t4ZBhMz5s/tracks-v1a1/mono.m3u8?remote=172.70.189.95&token=6c92c77a57a66785c143e711573854373168ced0-d06095f3fd3e152e99055d8d87c86f82--
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE ONLY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://5918tuan.com/m3u8.php?url=https://play1nm.hnyongshun.cn/live/sd-1-3747217.m3u8
+
+#EXTINF:0 group-title="FOOTBALL" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/33/33624-coronavirus-europe-top-leagues.png?q=75&w=634",LIVE ONLY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://voli.ninecdn.online/hls/ch1/index.m3u8?Referer=https://koora.alkoora.live/2023/02/ksa-sports-1-hd---.html
+
+
+
+
+
+============================
+NBA 2
+============================
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://empxhnc8j2xacpe7.cdnexpress23.net:8443/hls/6y5l8ujvxr.m3u8?s=E4pX0JCuYLhxaFHKO_h6WQ&e=1676877292
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/n1.m3u8?|Referer=https://techclips.net/2022/a1
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/n2.m3u8?|Referer=https://techclips.net/2022/a2
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/n3.m3u8?|Referer=https://techclips.net/2022/a3
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/n4.m3u8?|Referer=https://techclips.net/2022/a4
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn3.reels2watch.com/hls/n5.m3u8?|Referer=https://techclips.net/2022/a5
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/n6.m3u8?|Referer=https://techclips.net/2022/a6
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/n7.m3u8?|Referer=https://techclips.net/2022/a7
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/n8.m3u8?|Referer=https://techclips.net/2022/a8
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/n9.m3u8?|Referer=https://techclips.net/2022/a9
+
+
+
+#EXTINF:0 group-title="NBA HD" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg",LIVE 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/n10.m3u8?|Referer=https://techclips.net/2022/a10
+
+
+============================
+F1 & MOTO GP
+============================
+
+#EXTINF:0 group-title="F1 & MOTO GP" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/f1.m3u8?|Referer=https://techclips.net/2022/a10
+
+============================
+UFC
+============================
+#EXTINF:0 group-title="UFC & BOXING" tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",UFC LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nflarcadia.xyz/hls/m1.m3u8?|Referer=https://techclips.net/2022/u1
+
+#EXTINF:0 group-title="UFC & BOXING" tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",UFC LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://reels2watch.com/hls/m2.m3u8?|Referer=https://techclips.net/2022/u2
+
+#EXTINF:0 group-title="UFC & BOXING" tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",BOXING LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn4.reels2watch.com/hls/b1.m3u8?|Referer=https://techclips.net/2022/f1
+
+
+
+============================
+NATIONAL & LOCAL
+============================
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI WORLD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RCTI
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1676776572-49c9942ad503924d261d87d47a50760b-0-ff90bc3880a5d618c051b3b8f246d560
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1676776371-6da219a7863717017cfb9db0ead26f5b-0-3cfceb2633745d0cafa7b782aab3e720
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MNC TV
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?auth_key=1676776669-0f8c35a6b4c2bc9dc3e7d23b9a357ffe-0-800f1a25e1759b9727c8358a717e2074
+
+
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NET TV
+http://210.210.155.37/session/0f29501a-7bca-11ed-99fb-c81f66f89318/uq2663/h/h06/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?|Referer=https://www.transtv.co.id/live
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/1dd6fe42-789a-11ed-8981-c81f66f89318/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/3a5171a6-789a-11ed-8981-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAGNA
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",KOMPAS TV
+//https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+http://210.210.155.35/session/0f0d821c-aa79-11ed-b1c0-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",RRI NET
+https://rrinet.rritmb.com/hls/live.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",ELSHINTA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/4a6d7b5c-789a-11ed-8981-c81f66f89318/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAWA POST TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",IDX CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://av-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",INDONESIANA
+http://iptvid.my.id/hmm/indonesiana.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",FTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5cd2bf10-1ac0-4fa7-9543-3520f01b3378)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DIGI ONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MAX 2 U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/session/ad5d0bb0-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s65/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DEN'S PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
+
+
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BALI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",SURABAYA TV
+https://v3.siar.us/surabayatv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JAK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.37/session/7f3df3e8-789a-11ed-a06a-c81f66f89318/x6bnqe/s/s13/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",V CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/session/f49e5746-7899-11ed-a06a-c81f66f89318/x6bnqe/s/s73/S4/mnf.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",JURNAL TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
+
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",HUMA BETANG TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BNTV
+https://www.dailymotion.com/cdn/live/video/x8dkqve.m3u8?sec=jOcfzX6FA7YV8iNjbPnMD7ykgLAdyprrnXHA_tSqAccm_-CT7sZFZKFAy5XDI7SPLKztxxG1isOv_aNy7AMxIw&dmTs=499408&dmV1st=95C359C625879232878EE753650BBE37
+
+
+==========================
+SPORTS
+==========================
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png?v=1",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/pimages/logo_spotv2_big.png?v=1",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportvb.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",LFC TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS",MU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="SPORTS",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+https://webdi.openhd.lol/ddy5/premium44/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
+
+
+
+
+
+
+==========================
+RELIGION
+==========================
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",TV MU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://tvmu.siar.us/tvmu/live/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",MUSLIM TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://av-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",INSPIRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:0 group-title="RELIGION" tvg-logo="https://uploads.dailydot.com/2020/05/localnow.png?auto=compress&fm=png",BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+
+
+
+
+==========================
+NEWS
+==========================
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",THE INDONESIA CHANNEL
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/zjh5tjvs/2728/chunklist.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",BERITA SATU ENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+//http://210.210.155.35/session/0d842532-789b-11ed-991d-c81f66f89318/uq2663/h/h29/01.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",CGTN
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",ALJAZEERA
+https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/index.m3u8
+
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",BBC WORLD NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",CNN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",EURONEWS
+https://gintna100.tulix.tv/gin_live/euronews/2e33319d857328b43396446521aa2d5e/63a30eac/index.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",FOX NEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",FRANCE 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",RT NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",CNBC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anv-livechannel-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",REUTERS
+https://8d642f3f57294d719ccf3a03a89373aa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",USA TODAY
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=7a11bafa-5f57-5177-a1fd-05d6282e45b9&dnt=0&X-Plex-Token=WSQTV6z8c_QtFEwbSD2D&channelId=60df3e18541143002f3b8607&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.desktop&app_store_url=https%3A%2F%2Fapp.plex.tv&gdpr=0&gdpr_consent=0&coppa=0&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F108.0.0.0%20Safari%2F537.36&ip=36.68.52.250&brand_name=&device_model=&device_type=desktop&w=&h=&partner_id=FightingFakeNews&ads.us_privacy=1---&ads.did=7a11bafa-5f57-5177-a1fd-05d6282e45b9&ads.dnt=0&ads.X-Plex-Token=WSQTV6z8c_QtFEwbSD2D&ads.channelId=60df3e18541143002f3b8607&ads.coppa=0
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",BLOOMBERG
+//https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-06-mOzAf8ZuNC8_live.m3u8
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",YAHOO! FINANCE
+https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/cb563f1865746d909fc82164d5f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec59a56852db80148b6f4adafb8c2360625f5c98435ee3b24af1fdb20943d03af2ac1448c12958e683179dc915bb88d5469c12d771a013cfc3f28d874488bdab57fe03f2267b3b481cc9da32f9a45cb2c9d46a319d7f2643127ce2d1e99436698016140cfeaf9abd3da64b9ad075d13466b954c14b8061d018c065a0e55eb292b8d04c523caad029024dc1b5fafa915c32b975b5a1e6cd637deb957e19179327b2522a3c83b3f359b4cf108efb178abf6c134ab6fb31ab95e3a9b9a99d7ea611fad4d69c2841666b273bdc25c8f46cdf3a936dbbf10333555b45ae8327a2ecbd0f7d2f02dcee34b3121faa958f8dcb7c58a0014b00b90abe5a017f82306578976b93de6b6dd8770884333cb60d33d515b1ed7da2f096e4573db1939717fb39bded58d7a257ab34662d68d9e73f60555e74c6ef6514421fa921b59e87ac45186a9f9f613ac4295a2e1d553b2585e6e87e9e9dc9286f79ab31075304db930b66ac0dfe13400154a2761d5f0a06e032242ae7ab7d2b32a157ccc3e3ade2b028967adddbef38237b7362ab324f463c91dedf282f7645bd1b41fbaf1d9d427d15ffc2aee9aff5a17dc79d2b8039691571d1f12d8c68387c4e05819964db5fadc653e9db826bc5e1891d52967c8d3550cf80923ca3adb6ce4159c4f1170131c39a67e4633dcb12e32e8af979ccff00554b72131e82c67fd76b94f3d687279327a80f247be973b4d5a390de7459ea94056263511b473102387c4c8bdbd3651272a3e974b113b5bd27dc283e043649da8d174dc6b9276efb1b4a20f4f085dbd7896976ed61fb72c56579d674053ceec13daacef2c4f3896b5b17caf4cc68beb28395c3c6c0452f5c3b1b75fe2ebd8007cc4b73f8f31fe4267d/177/1920x1080_5701132/index.m3u8
+
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",KBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1671725515&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3MTcyNTUxNX19fV19&Signature=My1gPyhNFjJeZJkbLh9tASiedJXwpOTz~NjnM1cH6~zrTSnr4fx-~J0OM9HC~qPRWgFBB2lOFqx75nBNMXY3bQJNgNkjo-5vM64fSn5TbrgRN1ELzi0~Pp98SiM~dSDw-O7vRY1d05xnH1pJaWL6rY~Z6mAUz3QiyqFSkR~dKurxb7i9p1gQBQtmm415c~ofpLS3Sd76eDegRvnukdo74nFZm3JtGyV9MouGJGCP5gtfEHTc~rpvUT-hTd7URVAcSt4Fakx2VlhYv6X0lpJ3Q2THmsKbjYOCIoNwhm-RKtirJzjbOY9KSINPM8VR-8rHq-B3mPHIEkwZXtVto5qC3A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:0 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1108430392267280389/ufmFwzIn_400x400.png",NTV
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+
+
+==========================
+ENTERTAINMENT
+==========================
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",USEE PRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",KBC
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",COMEDY HUB
+https://uksono1-samsunguk.amagi.tv/playlist720p.m3u8
+
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",LOL! Network
+https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8?ads.wurl_channel=1119&ads.wurl_name=LOLNetwork&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",COMEDY DYNAMICS
+https://amg01201-cinedigmenterta-comedydynamics-samsunguk-z0jtu.amagi.tv/playlist/amg01201-cinedigmenterta-comedydynamics-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/1/03/ENews-S1-Logo-1920x1080.jpg",FAILARMY
+https://562fa254d4174f859af55df9d1168180.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+
+
+==========================
+MALAYSIA
+==========================
+
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1
+
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0 group-title="MALAYSIA" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/10/07/3202150870.jpg",TV IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+
+
+==========================
+THAILAND
+==========================
+
+#EXTINF:0 group-title="THAILAND" tvg-logo="https://image.roku.com/developer_channels/prod/f59cfc6f09b05c21e71dd03ecb796a83a81c77f0b5d9ad351ddda99a7a7df51f.png",PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0 group-title="THAILAND" tvg-logo="https://image.roku.com/developer_channels/prod/f59cfc6f09b05c21e71dd03ecb796a83a81c77f0b5d9ad351ddda99a7a7df51f.png",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_tha/index.m3u8
+
+#EXTINF:0 group-title="THAILAND" tvg-logo="https://image.roku.com/developer_channels/prod/f59cfc6f09b05c21e71dd03ecb796a83a81c77f0b5d9ad351ddda99a7a7df51f.png",NBT WORLD
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:0 group-title="THAILAND" tvg-logo="https://image.roku.com/developer_channels/prod/f59cfc6f09b05c21e71dd03ecb796a83a81c77f0b5d9ad351ddda99a7a7df51f.png",NNT
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
+
+==========================
+KIDS
+==========================
+#EXTINF:0 group-title="KIDS" tvg-logo="https://happykids.tv/img/show-cocomelon.png",ANIPLUS
+
+//http://iptvid.my.id/hmm/aniplus.m3u8
+
+#EXTINF:0 group-title="KIDS" tvg-logo="https://happykids.tv/img/show-cocomelon.png",BABY FIRST
+//http://iptvid.my.id/hmm/babyfirst.m3u8
+
+#EXTINF:0 group-title="KIDS" tvg-logo="https://happykids.tv/img/show-cocomelon.png",DUNIA ANAK
+//http://iptvid.my.id/hmm/duniaanak.m3u8
+
+#EXTINF:0 group-title="KIDS" tvg-logo="https://happykids.tv/img/show-cocomelon.png",INDIKIDS
+//http://iptvid.my.id/hmm/indikids.m3u8
+
+
+
+
+
+
+
+
+=====================================
+//NBA
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 1
+https://etus.link/nba
+//https://desuntv.000webhostapp.com/dstv/nba/live
+//http://flussonicusa.bdcabletv.com:80/bdcuserdiy/Fn7nAkLJlw/197
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 2
+https://etus.link/nba2
+//https://bananaxmelonstream.shortcm.li/NBA1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 3
+https://etus.link/nba3
+//https://bananaxmelonstream.shortcm.li/NBA2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 4
+https://etus.link/nba4
+//https://bananaxmelonstream.shortcm.li/NBA3.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 5
+https://etus.link/nba5
+//https://bananaxmelonstream.shortcm.li/NBA4.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 6
+https://etus.link/nba6
+//https://d1sw56ijcxm22r.cloudfront.net/out/v1/703ed11e373245ff9c4c10d5b43399ab/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 7
+https://etus.link/nba7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 8
+https://etus.link/nba8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 9
+https://etus.link/nba9
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="NBA ALT",NBA 10
+https://etus.link/nba10
+
+
+==========================
+TEST
+==========================
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://nonton.wap.sh/id/009.m3u8
+
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/002.m3u8
+
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/001.m3u8
+
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/010.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/011.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/012.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",Channel 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/013.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/014.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",Channel 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/015.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/016.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/017.m3u8
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nonton.wap.sh/id/018.m3u8
+
+#EXTINF:0 group-title="TEST" tvg-logo="https://uploads.dailydot.com/2020/05/TESTnow.png?auto=compress&fm=png",Channel 19
+
+//http://iptvid.my.id/hmm/indosiar.m3u8
+
+
+
+<style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC85Z29hbC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiOWdvYWwueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1677995104" style="z-index:999999;z-index:999999999;"><span id="a1677995104"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2JhY2t0b29sZHNjaG9vbC54dGdlbS5jb20vaW5kZXgvX194dGJsb2dfZW50cnkvMTAxOTg2OTMtb2xkLXNjaG9vbC1zd2F0Y2gtd2F0Y2hlcz91dG1fbWVkaXVtPXh0Z2VtX2FkX3RvdWNoX2Jhbm5lciZ1dG1fc291cmNlPWZlYXR1cmVkX2FkI3h0X2Jsb2c=&amp;s=9goal.xtgem.com&amp;t=KhsdGxoXFgUAAgcZAwQDCAAODgwECwx1dg==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=OWdvYWwueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1677995104"><img style="width:auto !important;height:auto !important;" alt="" src="http://4.thumbs.xtstatic.com/100/50/-/402a207ac912cff61d3bcd8232a4634f/backtooldschool.xtgem.com/images/blog/old-school-swatch-watches-21484.jpg" /><span class="fbp_txt1677995104">Old school Swatch Watches</span><span class="fbp_ico1677995104">&#187;</span></a></span>        <style type="text/css">
+            #st1677995104 *
+            {
+                box-sizing:content-box !important;
+            }
+
+            #st1677995104 a
+            {
+                display: inline-block !important;
+                vertical-align: top;
+                padding: 0; margin: 0;
+            }
+
+            #st1677995104 a img
+            {
+                display: inline-block !important;
+            }
+
+            #st1677995104 ._xt_ad_close, #st1677995104 ._xt_ad_close_internal
+            {
+                display: inline-block !important;
+                position: absolute !important;
+                right: 6px !important;
+                width: 20px !important;
+                height: 20px !important;
+                cursor: pointer;
+            }
+
+            #st1677995104 ._xt_ad_close
+            {
+                top: -10px !important;
+            }
+
+            #st1677995104 ._xt_ad_close_internal
+            {
+                border: 6px solid transparent;
+                top: -12px !important;
+                right: 3px !important;
+            }
+
+            #a1677995104
+            {
+                display: inline-block !important;
+                position: relative !important;
+                text-align: left !important;
+                visibility: visible !important;
+                max-width: 100% !important;
+                max-height: none !important;
+                z-index:999999 !important;
+                z-index:999999999 !important;
+            }
+
+            #a1677995104 img
+            {
+                max-width: none !important;
+                max-height: none !important;
+                width: auto !important;
+                height: auto !important;
+                min-width: 0 !important;
+                min-height: 0 !important;
+            }
+
+            .fba1677995104
+            {
+                color: #1D1EEB !important;
+                background-color: #fff !important;
+                padding: 10px 50px 10px 10px !important;
+                border: 1px solid #2C2C2C !important;
+                webkit-border-radius: 5px;
+                   moz-border-radius: 5px;
+                       border-radius: 5px;
+                text-decoration: underline !important;
+                font-weight: bold !important;
+                display: block !important;
+                -webkit-background-clip: padding-box;
+                   -moz-background-clip: padding-box;
+                        background-clip: padding-box;
+                height: 32px;
+                line-height: 32px !important;
+                background-image: url(//xtgem.com/images/arrow.gif) !important;
+                background-repeat: no-repeat !important;
+                background-position: 95% center !important;
+            }
+
+            .fbp1677995104
+            {
+                position: relative !important;
+                display: block !important;
+                width:320px !important;
+                height:50px !important;
+                text-align:left !important;
+                background-color: #fff !important;
+                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                padding: 3px !important;
+                border-radius: 3px !important;
+                border: 1px solid #6bc135 !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_txt1677995104
+            {
+                position:relative !important;
+                display: inline-block !important;
+                min-width: 200px;
+                max-width: 200px;
+                height:50px !important;
+                vertical-align: top !important;
+                line-height:50px !important;
+                margin-left: 6px !important;
+                text-align: left !important;
+                color: #0274d4 !important;
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 13px !important;
+                font-weight: bold !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_ico1677995104
+            {
+                position: absolute !important;
+                right: 10px !important;
+                height: 50px !important;
+                line-height: 46px !important;
+                vertical-align: top !important;
+                color: #6bc135 !important;
+            }
+
+            #st1677995104 .rolling_ad { display: none !important; }
+            #st1677995104 .rolling_ad.roll_on { display: inline-block !important; }
+        </style></div><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
+
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
+
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1677995104' );
+                        el_inner = d.getElementById( 'a1677995104' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
+
+                    xt_cache();
+
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
+
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
+
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
+
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
+
+                            xt_cache();
+                            ad_pos = true;
+                        }
+
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},200);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1677995104') ) { d.getElementById('wr1677995104').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 3500);
+                            }
+                            roll_ads();
+                        }
+                }());</script>
+View Source was made with <3 by Neatnik.
